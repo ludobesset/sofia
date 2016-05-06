@@ -1,0 +1,9 @@
+149369 : gagne 10.3 , partage 2.9
+142846 : gagne 9.9 , partage 1.8
+803728 : gagne 9.4 , partage 1.8
+976140 : gagne 9.8 , partage 1.9
+38450 : gagne 10.3 , partage 1.6
+769972 : gagne 9.7 , partage 1.5
+818766 : gagne 11.9 , partage 2.1
+373569 : gagne 9.7 , partage 2.1
+659147 : gagne 10.2 , partage 2.9

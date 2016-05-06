@@ -1,0 +1,10 @@
+332417 : gagne 8.7 , partage 2.2
+358875 : gagne 8.6 , partage 1.9
+233662 : gagne 9.8 , partage 1.8
+269392 : gagne 8.9 , partage 2.0
+315346 : gagne 9.6 , partage 2.0
+509193 : gagne 9.2 , partage 1.6
+822686 : gagne 9.0 , partage 2.2
+461401 : gagne 9.0 , partage 1.6
+147639 : gagne 9.3 , partage 2.0
+797673 : gagne 9.0 , partage 2.1

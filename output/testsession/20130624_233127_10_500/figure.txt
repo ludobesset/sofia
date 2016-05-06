@@ -1,0 +1,8 @@
+Hauteur : 48.5% 30.6% 16.8% , est devant dans 0.0% 0.0% 0.0% des cas, et partage dans 0.0% 0.0% 0.0% des cas
+Paire : 43.5% 49.0% 44.3% , est devant dans 12.1% 4.7% 1.8% des cas, et partage dans 0.6% 0.3% 0.4% des cas
+DoublePaire : 5.1% 13.7% 25.0% , est devant dans 38.7% 17.9% 8.8% des cas, et partage dans 3.1% 1.6% 1.6% des cas
+Brelan : 2.2% 3.3% 4.6% , est devant dans 84.5% 69.9% 42.2% des cas, et partage dans 3.6% 1.8% 3.5% des cas
+Quinte : 0.3% 1.5% 3.4% , est devant dans 100.0% 60.5% 33.7% des cas, et partage dans 0.0% 13.2% 25.6% des cas
+Couleur : 0.2% 1.1% 3.1% , est devant dans 88.9% 61.8% 46.8% des cas, et partage dans 0.0% 0.0% 0.0% des cas
+Full : 0.2% 0.7% 2.7% , est devant dans 100.0% 86.5% 56.7% des cas, et partage dans 0.0% 5.4% 15.7% des cas
+Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas, et partage dans 0% 0.0% 0.0% des cas

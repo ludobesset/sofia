@@ -1,0 +1,8 @@
+Hauteur : 0:0% 0:0% 91698:500000% , est devant dans 0% 0% 0.0% des cas, et partage dans 0% 0% 0.0% des cas
+Paire : 0:0% 0:0% 221512:500000% , est devant dans 0% 0% 1.9% des cas, et partage dans 0% 0% 0.3% des cas
+DoublePaire : 0:0% 0:0% 118149:500000% , est devant dans 0% 0% 10.3% des cas, et partage dans 0% 0% 1.8% des cas
+Brelan : 0:0% 0:0% 24257:500000% , est devant dans 0% 0% 36.5% des cas, et partage dans 0% 0% 4.7% des cas
+Quinte : 0:0% 0:0% 15747:500000% , est devant dans 0% 0% 35.8% des cas, et partage dans 0% 0% 26.1% des cas
+Couleur : 0:0% 0:0% 15071:500000% , est devant dans 0% 0% 48.1% des cas, et partage dans 0% 0% 0.0% des cas
+Full : 0:0% 0:0% 12754:500000% , est devant dans 0% 0% 53.2% des cas, et partage dans 0% 0% 13.1% des cas
+Carré : 0:0% 0:0% 812:500000% , est devant dans 0% 0% 89.2% des cas, et partage dans 0% 0% 2.5% des cas

@@ -1,0 +1,330 @@
+
+Board : 10 Pique, 5 Trefle, 3 Carreau, 4 Trefle, 3 Coeur, 
+
+Player 9 avec 5 Coeur, 3 Pique, 
+
+  2eme Double paire de 5 et 3, kicker: 10 // score: 3000050310	
+  2eme Double paire de 5 et 3, kicker: 10 // score: 3000050310	
+  1er Full au 3 par les 5 // score: 7000000050 
+
+Player 1 avec As Carreau, 3 Trefle, 
+
+  3eme Paire de 3, kickers: As, 10, 5 // score: 2003141005	
+  4eme Paire de 3, kickers: As, 10, 5 // score: 2003141005	
+  2eme Brelan de 3 , kickers: As, 10 // score: 4000031410 
+
+Player 4 avec 5 Carreau, 10 Trefle, 
+
+  1er Double paire de 10 et 5, kicker: 3 // score: 3000100503	
+  1er Double paire de 10 et 5, kicker: 4 // score: 3000100504	
+  3eme Double paire de 5 et 3, kicker: 10 // score: 3000050310 
+
+Player 7 avec 7 Pique, 4 Coeur, 
+
+  10eme Hauteur 10, 7, 5, 4, 3 // score: 1000531063	
+  3eme Paire de 4, kickers: 10, 7, 5 // score: 2004100705	
+  4eme Double paire de 4 et 3, kicker: 10 // score: 3000040310 
+
+Player 10 avec As Trefle, Roi Carreau, 
+
+  4eme Hauteur As, Roi, 10, 5, 3 // score: 1000754953	
+  5eme Hauteur As, Roi, 10, 5, 4 // score: 1000754954	
+  5eme Paire de 3, kickers: As, Roi, 10 // score: 2003141310 
+
+Player 5 avec 8 Trefle, As Pique, 
+
+  5eme Hauteur As, 10, 8, 5, 3 // score: 1000744378	
+  6eme Hauteur As, 10, 8, 5, 4 // score: 1000744379	
+  6eme Paire de 3, kickers: As, 10, 8 // score: 2003141008 
+
+Player 6 avec Roi Trefle, Dame Coeur, 
+
+  6eme Hauteur Roi, Dame, 10, 5, 3 // score: 1000700953	
+  7eme Hauteur Roi, Dame, 10, 5, 4 // score: 1000700954	
+  7eme Paire de 3, kickers: Roi, Dame, 10 // score: 2003131210 
+
+Player 2 avec Dame Carreau, 8 Pique, 
+
+  7eme Hauteur Dame, 10, 8, 5, 3 // score: 1000643128	
+  8eme Hauteur Dame, 10, 8, 5, 4 // score: 1000643129	
+  8eme Paire de 3, kickers: Dame, 10, 8 // score: 2003121008 
+
+Player 8 avec 2 Coeur, Dame Pique, 
+
+  8eme Hauteur Dame, 10, 5, 3, 2 // score: 1000642422	
+  9eme Hauteur Dame, 10, 5, 4, 3 // score: 1000642438	
+  9eme Paire de 3, kickers: Dame, 10, 5 // score: 2003121005 
+
+Player 3 avec Valet Carreau, 9 Coeur, 
+
+  9eme Hauteur Valet, 10, 9, 5, 3 // score: 1000592728	
+  10eme Hauteur Valet, 10, 9, 5, 4 // score: 1000592729	
+  10eme Paire de 3, kickers: Valet, 10, 9 // score: 2003111009 
+
+Le gagnant est le Player 9 avec Full au 3 par les 5 // score: 7000000050
+-----------------------------
+-----------------------------
+
+Board : Roi Pique, 7 Coeur, 10 Carreau, As Carreau, 8 Trefle, 
+
+Player 1 avec Roi Carreau, 7 Carreau, 
+
+  1er Double paire de Roi et 7, kicker: 10 // score: 3000130710	
+  1er Double paire de Roi et 7, kicker: As // score: 3000130714	
+  1er Double paire de Roi et 7, kicker: As // score: 3000130714 
+
+Player 4 avec 5 Carreau, As Coeur, 
+
+  6eme Hauteur As, Roi, 10, 7, 5 // score: 1000754985	
+  2eme Paire de As, kickers: Roi, 10, 7 // score: 2014131007	
+  2eme Paire de As, kickers: Roi, 10, 8 // score: 2014131008 
+
+Player 2 avec 2 Pique, As Pique, 
+
+  7eme Hauteur As, Roi, 10, 7, 2 // score: 1000754982	
+  3eme Paire de As, kickers: Roi, 10, 7 // score: 2014131007	
+  3eme Paire de As, kickers: Roi, 10, 8 // score: 2014131008 
+
+Player 8 avec Dame Trefle, 10 Pique, 
+
+  2eme Paire de 10, kickers: Roi, Dame, 7 // score: 2010131207	
+  4eme Paire de 10, kickers: As, Roi, Dame // score: 2010141312	
+  4eme Paire de 10, kickers: As, Roi, Dame // score: 2010141312 
+
+Player 3 avec 10 Coeur, Valet Carreau, 
+
+  3eme Paire de 10, kickers: Roi, Valet, 7 // score: 2010131107	
+  5eme Paire de 10, kickers: As, Roi, Valet // score: 2010141311	
+  5eme Paire de 10, kickers: As, Roi, Valet // score: 2010141311 
+
+Player 5 avec 10 Trefle, 3 Carreau, 
+
+  4eme Paire de 10, kickers: Roi, 7, 3 // score: 2010130703	
+  6eme Paire de 10, kickers: As, Roi, 7 // score: 2010141307	
+  6eme Paire de 10, kickers: As, Roi, 8 // score: 2010141308 
+
+Player 10 avec 5 Coeur, 7 Trefle, 
+
+  5eme Paire de 7, kickers: Roi, 10, 5 // score: 2007131005	
+  7eme Paire de 7, kickers: As, Roi, 10 // score: 2007141310	
+  7eme Paire de 7, kickers: As, Roi, 10 // score: 2007141310 
+
+Player 6 avec 6 Carreau, 9 Pique, 
+
+  8eme Hauteur Roi, 10, 9, 7, 6 // score: 1000694011	
+  8eme Hauteur As, Roi, 10, 9, 7 // score: 1000755017	
+  8eme Hauteur As, Roi, 10, 9, 8 // score: 1000755018 
+
+Player 7 avec 2 Trefle, 5 Pique, 
+
+  9eme Hauteur Roi, 10, 7, 5, 2 // score: 1000693527	
+  9eme Hauteur As, Roi, 10, 7, 5 // score: 1000754985	
+  9eme Hauteur As, Roi, 10, 8, 7 // score: 1000755002 
+
+Player 9 avec 2 Coeur, 4 Trefle, 
+
+  10eme Hauteur Roi, 10, 7, 4, 2 // score: 1000693512	
+  10eme Hauteur As, Roi, 10, 7, 4 // score: 1000754984	
+  10eme Hauteur As, Roi, 10, 8, 7 // score: 1000755002 
+
+Le gagnant est le Player 1 avec Double paire de Roi et 7, kicker: As // score: 3000130714
+-----------------------------
+-----------------------------
+
+Board : 8 Carreau, 4 Pique, 4 Trefle, 3 Coeur, 9 Trefle, 
+
+Player 1 avec 9 Coeur, 5 Coeur, 
+
+  6eme Paire de 4, kickers: 9, 8, 5 // score: 2004090805	
+  7eme Paire de 4, kickers: 9, 8, 5 // score: 2004090805	
+  1er Double paire de 9 et 4, kicker: 8 // score: 3000090408 
+
+Player 4 avec Dame Pique, 8 Coeur, 
+
+  1er Double paire de 8 et 4, kicker: Dame // score: 3000080412	
+  1er Double paire de 8 et 4, kicker: Dame // score: 3000080412	
+  2eme Double paire de 8 et 4, kicker: Dame // score: 3000080412 
+
+Player 8 avec 9 Pique, 3 Carreau, 
+
+  7eme Paire de 4, kickers: 9, 8, 3 // score: 2004090803	
+  2eme Double paire de 4 et 3, kicker: 9 // score: 3000040309	
+  3eme Double paire de 4 et 3, kicker: 9 // score: 3000040309 
+
+Player 6 avec As Coeur, Valet Trefle, 
+
+  2eme Paire de 4, kickers: As, Valet, 8 // score: 2004141108	
+  3eme Paire de 4, kickers: As, Valet, 8 // score: 2004141108	
+  4eme Paire de 4, kickers: As, Valet, 9 // score: 2004141109 
+
+Player 5 avec 5 Trefle, Roi Trefle, 
+
+  3eme Paire de 4, kickers: Roi, 8, 5 // score: 2004130805	
+  4eme Paire de 4, kickers: Roi, 8, 5 // score: 2004130805	
+  5eme Paire de 4, kickers: Roi, 9, 8 // score: 2004130908 
+
+Player 7 avec Dame Trefle, Valet Coeur, 
+
+  4eme Paire de 4, kickers: Dame, Valet, 8 // score: 2004121108	
+  5eme Paire de 4, kickers: Dame, Valet, 8 // score: 2004121108	
+  6eme Paire de 4, kickers: Dame, Valet, 9 // score: 2004121109 
+
+Player 2 avec Dame Coeur, 2 Pique, 
+
+  5eme Paire de 4, kickers: Dame, 8, 2 // score: 2004120802	
+  6eme Paire de 4, kickers: Dame, 8, 3 // score: 2004120803	
+  7eme Paire de 4, kickers: Dame, 9, 8 // score: 2004120908 
+
+Player 3 avec 6 Carreau, 7 Carreau, 
+
+  8eme Paire de 4, kickers: 8, 7, 6 // score: 2004080706	
+  8eme Paire de 4, kickers: 8, 7, 6 // score: 2004080706	
+  8eme Paire de 4, kickers: 9, 8, 7 // score: 2004090807 
+
+Player 9 avec 7 Trefle, 6 Coeur, 
+
+  9eme Paire de 4, kickers: 8, 7, 6 // score: 2004080706	
+  9eme Paire de 4, kickers: 8, 7, 6 // score: 2004080706	
+  9eme Paire de 4, kickers: 9, 8, 7 // score: 2004090807 
+
+Player 10 avec 7 Pique, 2 Trefle, 
+
+  10eme Paire de 4, kickers: 8, 7, 2 // score: 2004080702	
+  10eme Paire de 4, kickers: 8, 7, 3 // score: 2004080703	
+  10eme Paire de 4, kickers: 9, 8, 7 // score: 2004090807 
+
+Le gagnant est le Player 1 avec Double paire de 9 et 4, kicker: 8 // score: 3000090408
+-----------------------------
+-----------------------------
+
+Board : 6 Pique, 6 Carreau, 8 Pique, Roi Coeur, Roi Trefle, 
+
+Player 8 avec Dame Trefle, Roi Pique, 
+
+  7eme Paire de 6, kickers: Roi, Dame, 8 // score: 2006131208	
+  3eme Double paire de Roi et 6, kicker: Dame // score: 3000130612	
+  1er Full au Roi par les 6 // score: 7000000201 
+
+Player 7 avec As Pique, 6 Trefle, 
+
+  1er Brelan de 6 , kickers: As, 8 // score: 4000061408	
+  1er Brelan de 6 , kickers: As, Roi // score: 4000061413	
+  2eme Full au 6 par les Roi // score: 7000000103 
+
+Player 1 avec Valet Carreau, 6 Coeur, 
+
+  2eme Brelan de 6 , kickers: Valet, 8 // score: 4000061108	
+  2eme Brelan de 6 , kickers: Roi, Valet // score: 4000061311	
+  3eme Full au 6 par les Roi // score: 7000000103 
+
+Player 3 avec Dame Pique, 7 Trefle, 
+
+  8eme Paire de 6, kickers: Dame, 8, 7 // score: 2006120807	
+  8eme Paire de 6, kickers: Roi, Dame, 8 // score: 2006131208	
+  4eme Double paire de Roi et 6, kicker: Dame // score: 3000130612 
+
+Player 5 avec Dame Carreau, 4 Pique, 
+
+  9eme Paire de 6, kickers: Dame, 8, 4 // score: 2006120804	
+  9eme Paire de 6, kickers: Roi, Dame, 8 // score: 2006131208	
+  5eme Double paire de Roi et 6, kicker: Dame // score: 3000130612 
+
+Player 2 avec 3 Trefle, 5 Trefle, 
+
+  10eme Paire de 6, kickers: 8, 5, 3 // score: 2006080503	
+  10eme Paire de 6, kickers: Roi, 8, 5 // score: 2006130805	
+  6eme Double paire de Roi et 6, kicker: 8 // score: 3000130608 
+
+Player 6 avec Valet Trefle, 8 Trefle, 
+
+  3eme Double paire de 8 et 6, kicker: Valet // score: 3000080611	
+  4eme Double paire de 8 et 6, kicker: Roi // score: 3000080613	
+  7eme Double paire de 8 et 6, kicker: Roi // score: 3000080613 
+
+Player 9 avec 10 Trefle, 8 Carreau, 
+
+  4eme Double paire de 8 et 6, kicker: 10 // score: 3000080610	
+  5eme Double paire de 8 et 6, kicker: Roi // score: 3000080613	
+  8eme Double paire de 8 et 6, kicker: Roi // score: 3000080613 
+
+Player 4 avec Paire de 7
+
+  5eme Double paire de 7 et 6, kicker: 8 // score: 3000070608	
+  6eme Double paire de 7 et 6, kicker: Roi // score: 3000070613	
+  9eme Double paire de 7 et 6, kicker: Roi // score: 3000070613 
+
+Player 10 avec Paire de 2
+
+  6eme Double paire de 6 et 2, kicker: 8 // score: 3000060208	
+  7eme Double paire de 6 et 2, kicker: Roi // score: 3000060213	
+  10eme Double paire de 6 et 2, kicker: Roi // score: 3000060213 
+
+Le gagnant est le Player 8 avec Full au Roi par les 6 // score: 7000000201
+-----------------------------
+-----------------------------
+
+Board : As Coeur, 3 Pique, Dame Carreau, Valet Carreau, 8 Coeur, 
+
+Player 7 avec 3 Trefle, As Carreau, 
+
+  1er Double paire de As et 3, kicker: Dame // score: 3000140312	
+  1er Double paire de As et 3, kicker: Dame // score: 3000140312	
+  1er Double paire de As et 3, kicker: Dame // score: 3000140312 
+
+Player 4 avec As Pique, 3 Carreau, 
+
+  2eme Double paire de As et 3, kicker: Dame // score: 3000140312	
+  2eme Double paire de As et 3, kicker: Dame // score: 3000140312	
+  2eme Double paire de As et 3, kicker: Dame // score: 3000140312 
+
+Player 1 avec Valet Trefle, 2 Pique, 
+
+  7eme Hauteur As, Dame, Valet, 3, 2 // score: 1000751772	
+  3eme Paire de Valet, kickers: As, Dame, 3 // score: 2011141203	
+  3eme Paire de Valet, kickers: As, Dame, 8 // score: 2011141208 
+
+Player 8 avec Paire de 10
+
+  3eme Paire de 10, kickers: As, Dame, 3 // score: 2010141203	
+  4eme Paire de 10, kickers: As, Dame, Valet // score: 2010141211	
+  4eme Paire de 10, kickers: As, Dame, Valet // score: 2010141211 
+
+Player 9 avec 6 Pique, 8 Carreau, 
+
+  9eme Hauteur As, Dame, 8, 6, 3 // score: 1000751143	
+  9eme Hauteur As, Dame, Valet, 8, 6 // score: 1000751851	
+  5eme Paire de 8, kickers: As, Dame, Valet // score: 2008141211 
+
+Player 2 avec 10 Pique, 3 Coeur, 
+
+  4eme Paire de 3, kickers: As, Dame, 10 // score: 2003141210	
+  5eme Paire de 3, kickers: As, Dame, Valet // score: 2003141211	
+  6eme Paire de 3, kickers: As, Dame, Valet // score: 2003141211 
+
+Player 3 avec Roi Trefle, 10 Carreau, 
+
+  5eme Hauteur As, Roi, Dame, 10, 3 // score: 1000755478	
+  6eme Hauteur As, Roi, Dame, Valet, 10 // score: 1000755500	
+  7eme Hauteur As, Roi, Dame, Valet, 10 // score: 1000755500 
+
+Player 6 avec 4 Pique, Roi Carreau, 
+
+  6eme Hauteur As, Roi, Dame, 4, 3 // score: 1000755388	
+  7eme Hauteur As, Roi, Dame, Valet, 4 // score: 1000755494	
+  8eme Hauteur As, Roi, Dame, Valet, 8 // score: 1000755498 
+
+Player 5 avec 2 Carreau, 9 Pique, 
+
+  8eme Hauteur As, Dame, 9, 3, 2 // score: 1000751322	
+  8eme Hauteur As, Dame, Valet, 9, 3 // score: 1000751863	
+  9eme Hauteur As, Dame, Valet, 9, 8 // score: 1000751868 
+
+Player 10 avec 6 Trefle, 7 Pique, 
+
+  10eme Hauteur As, Dame, 7, 6, 3 // score: 1000750918	
+  10eme Hauteur As, Dame, Valet, 7, 6 // score: 1000751836	
+  10eme Hauteur As, Dame, Valet, 8, 7 // score: 1000751852 
+
+Le gagnant est le Player 7 avec Double paire de As et 3, kicker: Dame // score: 3000140312
+-----------------------------
+-----------------------------

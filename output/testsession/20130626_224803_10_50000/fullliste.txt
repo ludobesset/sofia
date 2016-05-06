@@ -1,0 +1,1521 @@
+0:   AA gagne 31.8%, partage 0.4%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 73.1% 55.8% 38.0% , est devant dans 68.4% 43.4% 16.5% des cas
+      - DoublePaire : 15.8% 28.7% 39.7% , est devant dans 33.5% 29.2% 18.7% des cas
+      - Brelan : 9.7% 11.9% 11.9% , est devant dans 95.8% 91.5% 75.1% des cas
+      - Quinte : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0.0% des cas
+      - Couleur : 0.0% 0.4% 1.7% , est devant dans 0% 100.0% 97.3% des cas
+      - Full : 1.0% 2.8% 7.9% , est devant dans 81.8% 87.1% 86.0% des cas
+      - Carré : 0.3% 0.5% 0.8% , est devant dans 100.0% 100.0% 100.0% des cas
+1:   KK gagne 28.2%, partage 0.3%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 70.6% 54.5% 35.2% , est devant dans 52.1% 29.1% 11.7% des cas
+      - DoublePaire : 17.5% 28.3% 41.2% , est devant dans 30.5% 22.2% 16.4% des cas
+      - Brelan : 10.9% 12.3% 11.4% , est devant dans 97.6% 87.1% 66.3% des cas
+      - Quinte : 0.0% 0.1% 0.7% , est devant dans 0% 0.0% 31.3% des cas
+      - Couleur : 0.0% 0.4% 1.9% , est devant dans 0% 100.0% 61.4% des cas
+      - Full : 0.7% 4.1% 8.9% , est devant dans 100.0% 90.4% 86.8% des cas
+      - Carré : 0.3% 0.3% 0.6% , est devant dans 100.0% 100.0% 100.0% des cas
+2:   QQ gagne 23.0%, partage 0.5%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 72.8% 55.2% 36.5% , est devant dans 38.9% 19.8% 6.7% des cas
+      - DoublePaire : 16.1% 29.2% 41.3% , est devant dans 28.1% 20.6% 13.1% des cas
+      - Brelan : 9.7% 10.9% 10.5% , est devant dans 94.9% 83.0% 62.2% des cas
+      - Quinte : 0.0% 0.2% 0.8% , est devant dans 0% 75.0% 35.3% des cas
+      - Couleur : 0.0% 0.5% 1.9% , est devant dans 0% 63.6% 59.5% des cas
+      - Full : 1.1% 3.6% 8.3% , est devant dans 87.5% 84.8% 77.6% des cas
+      - Carré : 0.3% 0.4% 0.8% , est devant dans 100.0% 100.0% 100.0% des cas
+3:   AK-suited gagne 22.0%, partage 1.5%
+      - Hauteur : 52.4% 33.6% 20.5% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 40.4% 48.5% 43.9% , est devant dans 49.1% 29.6% 14.1% des cas
+      - DoublePaire : 4.7% 11.7% 22.6% , est devant dans 58.6% 42.0% 32.1% des cas
+      - Brelan : 1.5% 2.3% 4.4% , est devant dans 82.6% 70.6% 37.9% des cas
+      - Quinte : 0.0% 0.1% 0.5% , est devant dans 0% 100.0% 85.7% des cas
+      - Couleur : 0.6% 2.8% 5.9% , est devant dans 100.0% 97.6% 84.3% des cas
+      - Full : 0.4% 0.9% 2.0% , est devant dans 100.0% 84.6% 66.7% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 0% 100.0% 66.7% des cas
+4:   AQ-suited gagne 21.0%, partage 1.7%
+      - Hauteur : 52.5% 34.1% 19.1% , est devant dans 0.3% 0.0% 0.0% des cas
+      - Paire : 39.8% 45.0% 42.9% , est devant dans 43.9% 25.4% 9.0% des cas
+      - DoublePaire : 4.2% 12.7% 22.5% , est devant dans 53.2% 41.0% 29.1% des cas
+      - Brelan : 1.9% 3.3% 4.6% , est devant dans 78.6% 57.1% 47.1% des cas
+      - Quinte : 0.0% 0.2% 0.5% , est devant dans 0% 100.0% 62.5% des cas
+      - Couleur : 1.5% 3.9% 7.3% , est devant dans 100.0% 98.2% 84.3% des cas
+      - Full : 0.2% 0.7% 2.8% , est devant dans 100.0% 80.0% 58.5% des cas
+      - Carré : 0.0% 0.1% 0.3% , est devant dans 0% 100.0% 80.0% des cas
+5:   JJ gagne 20.5%, partage 0.7%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 71.3% 54.3% 35.7% , est devant dans 30.7% 13.4% 3.5% des cas
+      - DoublePaire : 16.0% 28.0% 39.4% , est devant dans 23.8% 15.3% 8.2% des cas
+      - Brelan : 11.3% 12.2% 11.7% , est devant dans 94.3% 77.9% 55.2% des cas
+      - Quinte : 0.0% 0.3% 1.4% , est devant dans 0% 37.5% 36.4% des cas
+      - Couleur : 0.0% 0.6% 1.8% , est devant dans 0% 50.0% 47.6% des cas
+      - Full : 1.0% 4.0% 9.1% , est devant dans 91.3% 86.0% 80.5% des cas
+      - Carré : 0.3% 0.5% 0.8% , est devant dans 100.0% 100.0% 100.0% des cas
+6:   TT gagne 19.7%, partage 0.9%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 70.3% 52.5% 34.6% , est devant dans 21.3% 9.5% 2.7% des cas
+      - DoublePaire : 16.6% 28.4% 39.2% , est devant dans 19.9% 12.4% 7.1% des cas
+      - Brelan : 12.1% 13.6% 12.8% , est devant dans 93.0% 76.8% 59.7% des cas
+      - Quinte : 0.0% 0.6% 1.9% , est devant dans 0% 38.5% 19.0% des cas
+      - Couleur : 0.0% 0.3% 1.8% , est devant dans 0% 28.6% 26.8% des cas
+      - Full : 0.8% 4.0% 8.7% , est devant dans 88.2% 80.0% 75.0% des cas
+      - Carré : 0.3% 0.5% 0.9% , est devant dans 100.0% 100.0% 100.0% des cas
+7:   AJ-suited gagne 18.8%, partage 1.7%
+      - Hauteur : 52.2% 33.7% 19.6% , est devant dans 0.4% 0.0% 0.0% des cas
+      - Paire : 40.6% 47.4% 43.0% , est devant dans 37.8% 19.7% 8.3% des cas
+      - DoublePaire : 4.5% 11.7% 22.2% , est devant dans 63.1% 43.3% 23.5% des cas
+      - Brelan : 1.7% 3.4% 5.6% , est devant dans 84.0% 63.3% 42.0% des cas
+      - Quinte : 0.0% 0.3% 0.7% , est devant dans 0% 75.0% 70.0% des cas
+      - Couleur : 1.0% 3.2% 7.2% , est devant dans 100.0% 91.3% 84.8% des cas
+      - Full : 0.0% 0.5% 1.6% , est devant dans 0% 57.1% 66.7% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+8:   AT-suited gagne 18.0%, partage 0.9%
+      - Hauteur : 53.3% 34.4% 18.3% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 40.7% 47.4% 47.1% , est devant dans 33.2% 18.1% 6.4% des cas
+      - DoublePaire : 4.0% 11.3% 21.0% , est devant dans 56.7% 42.4% 22.3% des cas
+      - Brelan : 1.3% 3.3% 4.3% , est devant dans 90.0% 68.0% 53.8% des cas
+      - Quinte : 0.0% 0.0% 0.5% , est devant dans 0% 0% 50.0% des cas
+      - Couleur : 0.5% 3.0% 6.9% , est devant dans 100.0% 93.5% 87.5% des cas
+      - Full : 0.1% 0.5% 1.8% , est devant dans 100.0% 100.0% 85.7% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+9:   AK-offsuited gagne 17.3%, partage 1.7%
+      - Hauteur : 54.3% 35.6% 20.9% , est devant dans 0.4% 0.1% 0.0% des cas
+      - Paire : 40.0% 49.5% 47.5% , est devant dans 50.9% 27.9% 12.3% des cas
+      - DoublePaire : 3.9% 10.9% 22.1% , est devant dans 60.9% 44.1% 27.8% des cas
+      - Brelan : 1.7% 3.0% 4.8% , est devant dans 75.0% 63.2% 45.5% des cas
+      - Quinte : 0.0% 0.1% 0.6% , est devant dans 0% 100.0% 67.9% des cas
+      - Couleur : 0.0% 0.2% 1.8% , est devant dans 0% 90.9% 67.1% des cas
+      - Full : 0.1% 0.5% 2.1% , est devant dans 100.0% 79.2% 64.5% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 100.0% 100.0% 100.0% des cas
+10:   KJ-suited gagne 17.2%, partage 2.0%
+      - Hauteur : 52.1% 34.0% 17.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.3% 45.9% 44.1% , est devant dans 30.5% 15.2% 4.0% des cas
+      - DoublePaire : 3.9% 11.7% 21.6% , est devant dans 66.7% 37.6% 20.7% des cas
+      - Brelan : 1.5% 2.4% 4.0% , est devant dans 78.3% 72.2% 42.6% des cas
+      - Quinte : 0.3% 1.8% 3.0% , est devant dans 100.0% 70.4% 43.5% des cas
+      - Couleur : 0.9% 3.5% 7.4% , est devant dans 100.0% 98.1% 91.1% des cas
+      - Full : 0.0% 0.6% 2.0% , est devant dans 0% 55.6% 51.6% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+11:   A9-suited gagne 16.8%, partage 1.5%
+      - Hauteur : 53.8% 33.8% 18.9% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 39.3% 46.5% 44.4% , est devant dans 28.6% 15.0% 7.2% des cas
+      - DoublePaire : 3.4% 11.8% 22.5% , est devant dans 50.0% 34.7% 18.5% des cas
+      - Brelan : 2.3% 3.4% 4.8% , est devant dans 81.8% 56.0% 47.1% des cas
+      - Quinte : 0.0% 0.1% 0.5% , est devant dans 0% 0.0% 12.5% des cas
+      - Couleur : 1.2% 3.8% 6.6% , est devant dans 100.0% 96.4% 88.7% des cas
+      - Full : 0.1% 0.5% 2.2% , est devant dans 100.0% 50.0% 53.1% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+12:   KQ-suited gagne 16.8%, partage 2.0%
+      - Hauteur : 51.1% 32.8% 18.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 42.2% 48.5% 45.0% , est devant dans 37.2% 20.3% 7.2% des cas
+      - DoublePaire : 3.7% 10.3% 20.4% , est devant dans 56.9% 35.8% 19.4% des cas
+      - Brelan : 1.8% 3.4% 5.1% , est devant dans 75.9% 50.9% 41.3% des cas
+      - Quinte : 0.2% 1.1% 1.8% , est devant dans 100.0% 61.1% 44.8% des cas
+      - Couleur : 0.8% 3.1% 7.3% , est devant dans 92.3% 91.8% 77.4% des cas
+      - Full : 0.1% 0.6% 1.7% , est devant dans 100.0% 55.6% 48.1% des cas
+      - Carré : 0.1% 0.1% 0.3% , est devant dans 100.0% 100.0% 75.0% des cas
+13:   99 gagne 16.5%, partage 1.2%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 71.1% 53.5% 35.5% , est devant dans 15.0% 5.6% 0.6% des cas
+      - DoublePaire : 16.1% 28.2% 38.1% , est devant dans 18.8% 10.4% 4.0% des cas
+      - Brelan : 11.4% 12.8% 11.3% , est devant dans 88.3% 71.1% 51.0% des cas
+      - Quinte : 0.0% 0.6% 2.4% , est devant dans 0% 23.1% 30.4% des cas
+      - Couleur : 0.0% 0.5% 2.1% , est devant dans 0% 18.2% 14.3% des cas
+      - Full : 1.3% 3.8% 9.4% , est devant dans 80.0% 75.3% 72.6% des cas
+      - Carré : 0.2% 0.6% 1.2% , est devant dans 100.0% 100.0% 92.9% des cas
+14:   AQ-offsuited gagne 15.6%, partage 1.4%
+      - Hauteur : 54.0% 36.5% 21.4% , est devant dans 0.2% 0.1% 0.0% des cas
+      - Paire : 40.2% 48.2% 47.4% , est devant dans 43.8% 23.8% 10.4% des cas
+      - DoublePaire : 4.2% 11.0% 22.4% , est devant dans 63.3% 42.6% 25.8% des cas
+      - Brelan : 1.5% 3.0% 4.2% , est devant dans 80.6% 67.4% 44.2% des cas
+      - Quinte : 0.0% 0.1% 0.4% , est devant dans 0% 75.0% 62.5% des cas
+      - Couleur : 0.0% 0.4% 2.0% , est devant dans 0% 60.0% 62.2% des cas
+      - Full : 0.1% 0.8% 2.1% , est devant dans 100.0% 80.0% 65.3% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 100.0% 100.0% 100.0% des cas
+15:   QJ-suited gagne 15.2%, partage 1.6%
+      - Hauteur : 51.5% 34.7% 17.9% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 43.0% 46.7% 44.0% , est devant dans 26.7% 12.0% 4.9% des cas
+      - DoublePaire : 3.2% 11.0% 21.3% , est devant dans 55.3% 34.6% 15.2% des cas
+      - Brelan : 1.2% 2.6% 3.7% , est devant dans 77.8% 57.9% 45.5% des cas
+      - Quinte : 0.5% 1.8% 4.3% , est devant dans 71.4% 81.5% 51.6% des cas
+      - Couleur : 0.6% 2.6% 6.4% , est devant dans 88.9% 89.7% 71.6% des cas
+      - Full : 0.0% 0.6% 2.2% , est devant dans 0% 77.8% 57.6% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+16:   A7-suited gagne 15.1%, partage 2.3%
+      - Hauteur : 53.2% 37.0% 20.8% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 39.7% 45.2% 43.6% , est devant dans 22.4% 12.0% 5.2% des cas
+      - DoublePaire : 4.4% 11.5% 22.4% , est devant dans 57.4% 30.9% 18.7% des cas
+      - Brelan : 1.6% 1.8% 3.3% , est devant dans 87.5% 46.4% 31.4% des cas
+      - Quinte : 0.0% 0.0% 0.1% , est devant dans 0% 0% 0.0% des cas
+      - Couleur : 1.0% 3.6% 7.8% , est devant dans 100.0% 98.2% 82.5% des cas
+      - Full : 0.1% 0.9% 2.1% , est devant dans 100.0% 64.3% 56.3% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+17:   KT-suited gagne 15.0%, partage 2.8%
+      - Hauteur : 51.8% 33.0% 18.3% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 40.7% 46.6% 41.3% , est devant dans 28.0% 13.3% 4.5% des cas
+      - DoublePaire : 4.6% 12.2% 23.6% , est devant dans 60.0% 35.7% 17.5% des cas
+      - Brelan : 2.0% 3.6% 4.4% , est devant dans 75.0% 58.8% 24.2% des cas
+      - Quinte : 0.2% 1.2% 3.8% , est devant dans 100.0% 58.8% 44.4% des cas
+      - Couleur : 0.6% 2.8% 6.0% , est devant dans 100.0% 82.5% 77.6% des cas
+      - Full : 0.1% 0.5% 2.5% , est devant dans 100.0% 71.4% 60.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+18:   88 gagne 14.6%, partage 0.4%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 71.1% 55.3% 36.1% , est devant dans 11.5% 3.6% 0.6% des cas
+      - DoublePaire : 16.7% 27.5% 39.3% , est devant dans 15.6% 9.2% 2.8% des cas
+      - Brelan : 10.9% 12.7% 11.7% , est devant dans 89.0% 74.6% 51.3% des cas
+      - Quinte : 0.0% 0.5% 1.4% , est devant dans 0% 33.3% 18.8% des cas
+      - Couleur : 0.0% 0.1% 2.1% , est devant dans 0% 0.0% 0.0% des cas
+      - Full : 1.0% 3.1% 8.4% , est devant dans 86.4% 87.3% 72.0% des cas
+      - Carré : 0.3% 0.6% 1.0% , est devant dans 100.0% 100.0% 100.0% des cas
+19:   77 gagne 14.5%, partage 0.8%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 71.2% 54.0% 36.6% , est devant dans 7.2% 2.0% 0.4% des cas
+      - DoublePaire : 16.5% 28.1% 37.8% , est devant dans 15.3% 6.8% 1.8% des cas
+      - Brelan : 10.8% 12.8% 11.9% , est devant dans 89.8% 69.7% 55.2% des cas
+      - Quinte : 0.0% 0.6% 2.0% , est devant dans 0% 50.0% 24.4% des cas
+      - Couleur : 0.0% 0.3% 1.9% , est devant dans 0% 28.6% 9.5% des cas
+      - Full : 1.2% 3.8% 9.3% , est devant dans 89.3% 76.7% 63.3% des cas
+      - Carré : 0.2% 0.3% 0.5% , est devant dans 100.0% 100.0% 100.0% des cas
+20:   A8-suited gagne 14.4%, partage 2.4%
+      - Hauteur : 52.1% 34.5% 18.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.4% 47.6% 45.6% , est devant dans 27.0% 11.5% 4.4% des cas
+      - DoublePaire : 5.1% 11.6% 22.6% , est devant dans 64.9% 36.0% 17.4% des cas
+      - Brelan : 1.4% 2.7% 4.0% , est devant dans 85.7% 67.5% 41.7% des cas
+      - Quinte : 0.0% 0.0% 0.3% , est devant dans 0% 0% 25.0% des cas
+      - Couleur : 0.9% 2.8% 6.2% , est devant dans 100.0% 92.9% 82.8% des cas
+      - Full : 0.1% 0.7% 2.4% , est devant dans 100.0% 72.7% 66.7% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+21:   Q9-suited gagne 14.3%, partage 1.7%
+      - Hauteur : 51.8% 31.6% 17.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.8% 49.0% 43.1% , est devant dans 19.7% 10.4% 4.3% des cas
+      - DoublePaire : 4.5% 11.5% 23.2% , est devant dans 50.7% 24.4% 12.9% des cas
+      - Brelan : 1.0% 3.1% 4.0% , est devant dans 68.8% 46.9% 27.4% des cas
+      - Quinte : 0.8% 2.1% 4.1% , est devant dans 91.7% 69.7% 51.6% des cas
+      - Couleur : 1.1% 2.3% 6.1% , est devant dans 94.1% 86.1% 82.1% des cas
+      - Full : 0.0% 0.4% 2.4% , est devant dans 0% 50.0% 56.8% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+22:   AJ-offsuited gagne 14.3%, partage 2.2%
+      - Hauteur : 53.8% 36.0% 21.9% , est devant dans 0.2% 0.0% 0.0% des cas
+      - Paire : 40.7% 48.6% 45.0% , est devant dans 37.0% 20.1% 8.8% des cas
+      - DoublePaire : 3.9% 11.0% 23.0% , est devant dans 56.1% 40.7% 24.2% des cas
+      - Brelan : 1.5% 2.9% 4.9% , est devant dans 76.1% 57.8% 41.3% des cas
+      - Quinte : 0.0% 0.1% 0.8% , est devant dans 0% 50.0% 37.8% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 68.0% 54.9% des cas
+      - Full : 0.1% 0.7% 2.1% , est devant dans 100.0% 67.6% 56.3% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 75.0% des cas
+23:   QT-suited gagne 14.1%, partage 2.5%
+      - Hauteur : 52.7% 35.2% 20.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 38.7% 43.4% 39.9% , est devant dans 22.1% 9.6% 1.8% des cas
+      - DoublePaire : 4.7% 11.7% 21.0% , est devant dans 55.7% 29.7% 15.0% des cas
+      - Brelan : 1.7% 3.6% 4.3% , est devant dans 80.0% 56.6% 42.2% des cas
+      - Quinte : 0.9% 2.5% 5.3% , est devant dans 100.0% 70.3% 59.5% des cas
+      - Couleur : 1.1% 2.9% 6.4% , est devant dans 81.3% 72.7% 56.3% des cas
+      - Full : 0.1% 0.5% 2.3% , est devant dans 100.0% 62.5% 54.3% des cas
+      - Carré : 0.0% 0.2% 0.4% , est devant dans 0% 100.0% 100.0% des cas
+24:   44 gagne 13.8%, partage 0.1%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 70.6% 53.4% 37.0% , est devant dans 1.6% 0.3% 0.0% des cas
+      - DoublePaire : 16.7% 28.3% 38.5% , est devant dans 8.0% 2.4% 0.4% des cas
+      - Brelan : 11.2% 12.8% 11.7% , est devant dans 88.8% 78.0% 55.7% des cas
+      - Quinte : 0.0% 0.5% 1.2% , est devant dans 0% 36.4% 17.9% des cas
+      - Couleur : 0.0% 0.4% 1.6% , est devant dans 0% 0.0% 0.0% des cas
+      - Full : 1.2% 4.2% 9.1% , est devant dans 85.7% 78.1% 66.8% des cas
+      - Carré : 0.2% 0.4% 0.8% , est devant dans 100.0% 100.0% 100.0% des cas
+25:   JT-suited gagne 13.7%, partage 2.0%
+      - Hauteur : 52.4% 34.5% 18.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.4% 45.2% 40.4% , est devant dans 16.7% 8.0% 1.8% des cas
+      - DoublePaire : 3.0% 11.9% 22.5% , est devant dans 47.8% 26.8% 12.4% des cas
+      - Brelan : 1.4% 2.8% 3.7% , est devant dans 81.0% 55.8% 35.1% des cas
+      - Quinte : 0.8% 2.6% 6.3% , est devant dans 100.0% 80.0% 62.9% des cas
+      - Couleur : 0.8% 2.9% 6.4% , est devant dans 92.3% 86.7% 61.2% des cas
+      - Full : 0.1% 0.2% 2.0% , est devant dans 100.0% 100.0% 51.6% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+26:   A3-suited gagne 13.5%, partage 2.6%
+      - Hauteur : 52.1% 31.9% 17.3% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 41.9% 50.4% 46.6% , est devant dans 12.8% 7.7% 3.0% des cas
+      - DoublePaire : 3.4% 10.0% 21.8% , est devant dans 51.0% 27.5% 13.2% des cas
+      - Brelan : 1.8% 3.6% 4.6% , est devant dans 59.3% 57.4% 45.6% des cas
+      - Quinte : 0.0% 0.3% 0.7% , est devant dans 0% 0.0% 20.0% des cas
+      - Couleur : 0.6% 3.0% 6.6% , est devant dans 100.0% 95.6% 84.7% des cas
+      - Full : 0.2% 0.7% 2.3% , est devant dans 100.0% 80.0% 55.9% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+27:   J9-suited gagne 13.4%, partage 2.6%
+      - Hauteur : 52.1% 31.2% 16.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.7% 48.4% 42.3% , est devant dans 16.8% 6.4% 2.2% des cas
+      - DoublePaire : 3.8% 10.6% 21.6% , est devant dans 50.9% 28.6% 9.4% des cas
+      - Brelan : 1.6% 2.8% 3.6% , est devant dans 66.7% 50.0% 38.2% des cas
+      - Quinte : 0.9% 3.4% 7.0% , est devant dans 92.9% 75.0% 50.5% des cas
+      - Couleur : 0.9% 3.2% 6.4% , est devant dans 69.2% 73.5% 67.3% des cas
+      - Full : 0.1% 0.3% 2.1% , est devant dans 100.0% 80.0% 50.0% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+28:   A5-suited gagne 13.3%, partage 2.4%
+      - Hauteur : 53.1% 34.7% 20.4% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 41.0% 46.2% 44.1% , est devant dans 19.4% 9.9% 3.4% des cas
+      - DoublePaire : 3.6% 11.3% 20.3% , est devant dans 41.8% 24.9% 16.5% des cas
+      - Brelan : 1.7% 3.7% 5.0% , est devant dans 69.2% 50.9% 31.2% des cas
+      - Quinte : 0.0% 0.1% 0.6% , est devant dans 0% 50.0% 11.1% des cas
+      - Couleur : 0.5% 3.5% 6.7% , est devant dans 100.0% 100.0% 79.4% des cas
+      - Full : 0.1% 0.3% 2.7% , est devant dans 100.0% 75.0% 48.8% des cas
+      - Carré : 0.1% 0.1% 0.2% , est devant dans 100.0% 100.0% 100.0% des cas
+29:   22 gagne 13.2%, partage 0.1%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 72.4% 55.2% 38.4% , est devant dans 0.3% 0.0% 0.0% des cas
+      - DoublePaire : 16.0% 27.8% 37.9% , est devant dans 4.6% 1.2% 0.1% des cas
+      - Brelan : 10.3% 12.4% 11.2% , est devant dans 90.3% 77.1% 58.7% des cas
+      - Quinte : 0.0% 0.1% 0.7% , est devant dans 0% 0.0% 5.9% des cas
+      - Couleur : 0.0% 0.3% 2.1% , est devant dans 0% 0.0% 0.0% des cas
+      - Full : 1.1% 3.6% 8.9% , est devant dans 76.9% 67.9% 65.4% des cas
+      - Carré : 0.3% 0.5% 0.8% , est devant dans 100.0% 100.0% 94.7% des cas
+30:   A6-suited gagne 13.2%, partage 2.1%
+      - Hauteur : 53.3% 34.3% 19.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 38.9% 46.6% 44.6% , est devant dans 20.1% 10.2% 5.2% des cas
+      - DoublePaire : 5.4% 12.1% 22.1% , est devant dans 53.6% 25.9% 14.2% des cas
+      - Brelan : 1.5% 3.1% 4.5% , est devant dans 66.7% 43.8% 31.4% des cas
+      - Quinte : 0.0% 0.0% 0.3% , est devant dans 0% 0% 0.0% des cas
+      - Couleur : 0.6% 3.0% 6.2% , est devant dans 100.0% 100.0% 80.4% des cas
+      - Full : 0.2% 0.8% 2.6% , est devant dans 100.0% 61.5% 45.0% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+31:   K4-suited gagne 13.1%, partage 2.0%
+      - Hauteur : 53.4% 36.2% 19.5% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 39.4% 43.7% 41.8% , est devant dans 14.3% 5.6% 2.0% des cas
+      - DoublePaire : 4.1% 11.4% 21.6% , est devant dans 55.0% 29.8% 11.6% des cas
+      - Brelan : 1.9% 4.4% 6.1% , est devant dans 67.9% 48.4% 38.9% des cas
+      - Quinte : 0.0% 0.3% 1.4% , est devant dans 0% 20.0% 19.0% des cas
+      - Couleur : 1.0% 3.5% 7.0% , est devant dans 100.0% 96.1% 82.5% des cas
+      - Full : 0.1% 0.5% 2.3% , est devant dans 100.0% 85.7% 50.0% des cas
+      - Carré : 0.1% 0.1% 0.2% , est devant dans 100.0% 100.0% 100.0% des cas
+32:   KQ-offsuited gagne 13.1%, partage 1.6%
+      - Hauteur : 54.0% 35.8% 20.6% , est devant dans 0.1% 0.1% 0.0% des cas
+      - Paire : 39.8% 47.4% 45.5% , est devant dans 36.8% 17.5% 7.0% des cas
+      - DoublePaire : 4.0% 10.9% 21.7% , est devant dans 60.8% 39.2% 19.8% des cas
+      - Brelan : 1.7% 3.4% 4.9% , est devant dans 76.9% 59.4% 37.5% des cas
+      - Quinte : 0.3% 1.3% 2.9% , est devant dans 86.7% 72.4% 50.4% des cas
+      - Couleur : 0.0% 0.5% 1.7% , est devant dans 0% 40.9% 48.1% des cas
+      - Full : 0.2% 0.8% 2.5% , est devant dans 100.0% 72.2% 53.9% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 83.3% des cas
+33:   55 gagne 12.8%, partage 0.5%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 72.9% 56.3% 36.8% , est devant dans 3.4% 0.8% 0.1% des cas
+      - DoublePaire : 15.8% 27.7% 39.6% , est devant dans 8.2% 2.7% 0.6% des cas
+      - Brelan : 10.1% 11.2% 10.3% , est devant dans 91.2% 75.2% 53.2% des cas
+      - Quinte : 0.0% 0.4% 1.9% , est devant dans 0% 30.0% 23.3% des cas
+      - Couleur : 0.0% 0.4% 2.0% , est devant dans 0% 11.1% 4.4% des cas
+      - Full : 0.9% 3.6% 8.6% , est devant dans 90.0% 82.5% 67.2% des cas
+      - Carré : 0.3% 0.4% 0.8% , est devant dans 100.0% 100.0% 94.4% des cas
+34:   K7-suited gagne 12.7%, partage 2.9%
+      - Hauteur : 53.5% 34.4% 19.3% , est devant dans 0.2% 0.0% 0.0% des cas
+      - Paire : 38.6% 46.5% 43.2% , est devant dans 15.5% 7.0% 2.6% des cas
+      - DoublePaire : 4.6% 10.7% 20.9% , est devant dans 50.7% 28.0% 14.6% des cas
+      - Brelan : 2.5% 3.7% 4.1% , est devant dans 70.0% 50.0% 34.4% des cas
+      - Quinte : 0.0% 1.0% 3.0% , est devant dans 0% 18.8% 8.5% des cas
+      - Couleur : 0.6% 3.1% 7.1% , est devant dans 70.0% 83.3% 75.7% des cas
+      - Full : 0.1% 0.5% 2.2% , est devant dans 100.0% 75.0% 52.9% des cas
+      - Carré : 0.0% 0.1% 0.3% , est devant dans 0% 100.0% 100.0% des cas
+35:   98-suited gagne 12.7%, partage 2.8%
+      - Hauteur : 52.7% 33.4% 19.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.0% 46.4% 40.9% , est devant dans 11.5% 3.4% 1.2% des cas
+      - DoublePaire : 3.4% 10.0% 18.4% , est devant dans 50.0% 20.5% 9.3% des cas
+      - Brelan : 2.1% 3.8% 5.0% , est devant dans 83.3% 50.9% 32.9% des cas
+      - Quinte : 0.8% 2.6% 6.4% , est devant dans 72.7% 60.5% 49.5% des cas
+      - Couleur : 0.8% 3.2% 6.7% , est devant dans 90.9% 74.5% 63.9% des cas
+      - Full : 0.3% 0.6% 3.0% , est devant dans 100.0% 77.8% 48.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 0.0% des cas
+36:   66 gagne 12.6%, partage 0.8%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 72.6% 54.8% 35.4% , est devant dans 4.1% 0.9% 0.1% des cas
+      - DoublePaire : 15.6% 28.4% 39.3% , est devant dans 11.9% 5.3% 1.7% des cas
+      - Brelan : 10.8% 11.7% 11.1% , est devant dans 89.5% 70.8% 45.7% des cas
+      - Quinte : 0.0% 0.9% 2.9% , est devant dans 0% 30.0% 23.8% des cas
+      - Couleur : 0.0% 0.3% 2.1% , est devant dans 0% 14.3% 2.1% des cas
+      - Full : 0.9% 3.6% 8.3% , est devant dans 78.9% 72.5% 63.4% des cas
+      - Carré : 0.1% 0.3% 0.8% , est devant dans 100.0% 100.0% 100.0% des cas
+37:   K8-suited gagne 12.6%, partage 1.6%
+      - Hauteur : 53.5% 34.2% 17.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.1% 46.9% 45.0% , est devant dans 22.0% 11.1% 3.6% des cas
+      - DoublePaire : 4.0% 11.6% 21.4% , est devant dans 49.2% 29.8% 13.4% des cas
+      - Brelan : 1.6% 3.4% 4.9% , est devant dans 72.0% 44.2% 30.7% des cas
+      - Quinte : 0.0% 0.8% 2.0% , est devant dans 0% 16.7% 16.1% des cas
+      - Couleur : 0.7% 2.3% 6.5% , est devant dans 90.9% 94.3% 70.7% des cas
+      - Full : 0.1% 0.7% 2.2% , est devant dans 100.0% 80.0% 70.6% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+38:   K9-suited gagne 12.6%, partage 2.5%
+      - Hauteur : 54.1% 35.2% 18.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.5% 45.8% 43.1% , est devant dans 22.0% 9.7% 3.0% des cas
+      - DoublePaire : 3.8% 11.0% 21.5% , est devant dans 62.5% 23.1% 9.2% des cas
+      - Brelan : 1.0% 3.0% 4.4% , est devant dans 53.3% 47.7% 33.8% des cas
+      - Quinte : 0.3% 1.4% 3.1% , est devant dans 80.0% 65.0% 42.2% des cas
+      - Couleur : 1.1% 2.8% 7.1% , est devant dans 100.0% 92.7% 74.0% des cas
+      - Full : 0.1% 0.9% 2.3% , est devant dans 100.0% 76.9% 50.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+39:   T9-suited gagne 12.5%, partage 2.3%
+      - Hauteur : 50.6% 32.0% 17.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.4% 45.7% 42.1% , est devant dans 15.0% 6.0% 1.7% des cas
+      - DoublePaire : 4.5% 12.5% 21.2% , est devant dans 50.7% 21.4% 8.9% des cas
+      - Brelan : 1.2% 3.1% 4.0% , est devant dans 73.7% 57.4% 39.3% des cas
+      - Quinte : 1.8% 3.9% 6.6% , est devant dans 92.6% 70.0% 50.0% des cas
+      - Couleur : 0.5% 2.3% 6.3% , est devant dans 85.7% 88.9% 63.5% des cas
+      - Full : 0.1% 0.5% 2.1% , est devant dans 100.0% 71.4% 46.9% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 50.0% des cas
+40:   33 gagne 12.4%, partage 0.2%
+      - Hauteur : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+      - Paire : 73.7% 56.1% 37.7% , est devant dans 1.1% 0.2% 0.0% des cas
+      - DoublePaire : 15.1% 26.6% 38.8% , est devant dans 5.9% 1.2% 0.3% des cas
+      - Brelan : 9.8% 12.3% 11.8% , est devant dans 93.2% 73.2% 53.2% des cas
+      - Quinte : 0.0% 0.3% 0.8% , est devant dans 0% 0.0% 0.0% des cas
+      - Couleur : 0.0% 0.5% 2.0% , est devant dans 0% 0.0% 0.0% des cas
+      - Full : 1.1% 3.7% 8.0% , est devant dans 76.0% 67.1% 62.6% des cas
+      - Carré : 0.4% 0.5% 0.9% , est devant dans 100.0% 100.0% 100.0% des cas
+41:   QJ-offsuited gagne 12.4%, partage 1.7%
+      - Hauteur : 52.9% 34.7% 18.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.2% 48.1% 45.5% , est devant dans 28.9% 13.7% 5.1% des cas
+      - DoublePaire : 3.8% 11.1% 22.9% , est devant dans 62.6% 32.3% 14.8% des cas
+      - Brelan : 1.4% 2.9% 4.4% , est devant dans 80.6% 62.4% 40.9% des cas
+      - Quinte : 0.6% 2.2% 4.5% , est devant dans 93.1% 77.8% 62.6% des cas
+      - Couleur : 0.0% 0.3% 2.0% , est devant dans 0% 35.7% 38.0% des cas
+      - Full : 0.1% 0.7% 2.1% , est devant dans 100.0% 74.2% 57.3% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+42:   KJ-offsuited gagne 12.4%, partage 1.7%
+      - Hauteur : 54.5% 37.1% 21.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.9% 47.8% 45.9% , est devant dans 31.0% 15.6% 6.1% des cas
+      - DoublePaire : 3.6% 10.0% 21.0% , est devant dans 56.4% 33.6% 18.4% des cas
+      - Brelan : 1.5% 2.8% 4.2% , est devant dans 77.9% 58.4% 40.3% des cas
+      - Quinte : 0.3% 1.1% 2.8% , est devant dans 100.0% 74.5% 52.7% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 59.1% 56.1% des cas
+      - Full : 0.2% 0.8% 2.2% , est devant dans 50.0% 54.3% 55.6% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+43:   A4-suited gagne 12.3%, partage 2.7%
+      - Hauteur : 52.4% 34.3% 19.7% , est devant dans 0.3% 0.0% 0.0% des cas
+      - Paire : 40.9% 46.7% 43.4% , est devant dans 17.0% 7.7% 2.8% des cas
+      - DoublePaire : 5.0% 12.7% 23.0% , est devant dans 43.2% 27.4% 14.0% des cas
+      - Brelan : 1.2% 3.3% 4.7% , est devant dans 61.1% 48.0% 34.3% des cas
+      - Quinte : 0.0% 0.3% 0.9% , est devant dans 0% 50.0% 15.4% des cas
+      - Couleur : 0.5% 2.3% 6.0% , est devant dans 100.0% 94.3% 83.3% des cas
+      - Full : 0.0% 0.3% 2.2% , est devant dans 0% 40.0% 48.5% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+44:   Q8-suited gagne 12.3%, partage 2.1%
+      - Hauteur : 53.3% 34.2% 18.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.5% 46.7% 43.3% , est devant dans 17.2% 7.8% 2.0% des cas
+      - DoublePaire : 3.4% 10.8% 22.0% , est devant dans 48.0% 26.9% 12.0% des cas
+      - Brelan : 1.6% 3.3% 5.3% , est devant dans 69.6% 51.0% 33.3% des cas
+      - Quinte : 0.4% 1.7% 3.2% , est devant dans 66.7% 52.0% 45.8% des cas
+      - Couleur : 0.7% 2.7% 5.5% , est devant dans 90.0% 92.5% 75.3% des cas
+      - Full : 0.1% 0.5% 1.6% , est devant dans 100.0% 85.7% 78.3% des cas
+      - Carré : 0.1% 0.1% 0.3% , est devant dans 100.0% 100.0% 75.0% des cas
+45:   AT-offsuited gagne 12.3%, partage 2.0%
+      - Hauteur : 54.0% 36.6% 21.3% , est devant dans 0.4% 0.0% 0.0% des cas
+      - Paire : 40.3% 48.2% 46.5% , est devant dans 32.4% 17.1% 6.5% des cas
+      - DoublePaire : 4.2% 11.0% 22.6% , est devant dans 59.9% 36.8% 21.7% des cas
+      - Brelan : 1.5% 2.9% 4.5% , est devant dans 72.1% 53.0% 39.9% des cas
+      - Quinte : 0.0% 0.1% 0.7% , est devant dans 0% 80.0% 39.4% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 63.6% 57.0% des cas
+      - Full : 0.0% 0.6% 2.0% , est devant dans 100.0% 70.4% 46.2% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+46:   K6-suited gagne 12.2%, partage 3.9%
+      - Hauteur : 52.5% 33.9% 18.4% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 41.5% 47.8% 42.7% , est devant dans 16.7% 7.1% 1.9% des cas
+      - DoublePaire : 4.0% 11.4% 23.2% , est devant dans 49.2% 23.2% 12.9% des cas
+      - Brelan : 1.3% 2.7% 4.0% , est devant dans 73.7% 47.5% 27.1% des cas
+      - Quinte : 0.0% 0.7% 3.4% , est devant dans 0% 9.1% 12.0% des cas
+      - Couleur : 0.6% 2.6% 6.1% , est devant dans 100.0% 97.4% 92.2% des cas
+      - Full : 0.1% 0.9% 2.1% , est devant dans 100.0% 61.5% 54.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+47:   T8-suited gagne 12.0%, partage 2.3%
+      - Hauteur : 48.9% 30.7% 16.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 43.9% 47.0% 42.2% , est devant dans 11.8% 5.0% 0.9% des cas
+      - DoublePaire : 4.2% 12.3% 22.7% , est devant dans 36.9% 25.4% 8.9% des cas
+      - Brelan : 1.5% 2.9% 4.5% , est devant dans 65.2% 40.0% 39.1% des cas
+      - Quinte : 0.7% 3.0% 5.3% , est devant dans 100.0% 59.6% 41.5% des cas
+      - Couleur : 0.7% 3.4% 6.0% , est devant dans 90.9% 84.6% 68.8% des cas
+      - Full : 0.0% 0.7% 2.7% , est devant dans 0% 54.5% 53.7% des cas
+      - Carré : 0.1% 0.1% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+48:   J7-suited gagne 11.5%, partage 2.1%
+      - Hauteur : 53.0% 34.5% 17.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.3% 46.2% 44.2% , est devant dans 11.4% 3.7% 2.3% des cas
+      - DoublePaire : 3.7% 11.2% 21.8% , est devant dans 56.9% 27.3% 9.3% des cas
+      - Brelan : 1.8% 3.1% 4.7% , est devant dans 64.3% 41.7% 28.4% des cas
+      - Quinte : 0.3% 1.5% 3.6% , est devant dans 80.0% 45.8% 28.1% des cas
+      - Couleur : 0.8% 3.0% 6.2% , est devant dans 92.3% 91.5% 79.6% des cas
+      - Full : 0.1% 0.4% 1.8% , est devant dans 100.0% 57.1% 64.3% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+49:   A9-offsuited gagne 11.3%, partage 2.1%
+      - Hauteur : 52.9% 35.7% 20.6% , est devant dans 0.3% 0.0% 0.0% des cas
+      - Paire : 41.3% 48.8% 47.2% , est devant dans 27.7% 14.3% 6.5% des cas
+      - DoublePaire : 4.4% 11.5% 23.2% , est devant dans 57.7% 33.5% 18.3% des cas
+      - Brelan : 1.4% 3.0% 4.4% , est devant dans 80.0% 56.3% 33.7% des cas
+      - Quinte : 0.0% 0.0% 0.6% , est devant dans 0% 100.0% 38.5% des cas
+      - Couleur : 0.0% 0.4% 1.8% , est devant dans 0% 64.7% 57.0% des cas
+      - Full : 0.0% 0.5% 2.1% , est devant dans 100.0% 76.2% 53.7% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+50:   Q5-suited gagne 11.2%, partage 1.7%
+      - Hauteur : 52.8% 34.4% 18.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.3% 46.3% 43.8% , est devant dans 11.7% 5.2% 1.5% des cas
+      - DoublePaire : 4.5% 10.9% 20.6% , est devant dans 42.9% 17.6% 9.3% des cas
+      - Brelan : 1.3% 3.6% 4.8% , est devant dans 80.0% 46.4% 36.0% des cas
+      - Quinte : 0.0% 0.8% 2.5% , est devant dans 0% 25.0% 12.8% des cas
+      - Couleur : 1.1% 3.5% 7.2% , est devant dans 88.2% 88.9% 74.1% des cas
+      - Full : 0.1% 0.6% 2.6% , est devant dans 100.0% 50.0% 47.5% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+51:   J6-suited gagne 11.2%, partage 2.6%
+      - Hauteur : 49.8% 31.9% 15.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 42.4% 46.3% 44.3% , est devant dans 9.5% 3.1% 1.2% des cas
+      - DoublePaire : 5.0% 12.9% 22.6% , est devant dans 59.5% 25.0% 11.3% des cas
+      - Brelan : 2.2% 4.4% 5.5% , est devant dans 57.6% 43.1% 36.6% des cas
+      - Quinte : 0.0% 0.7% 2.5% , est devant dans 0% 10.0% 21.6% des cas
+      - Couleur : 0.5% 2.8% 6.3% , est devant dans 100.0% 81.0% 63.4% des cas
+      - Full : 0.1% 0.9% 2.8% , est devant dans 100.0% 64.3% 50.0% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+52:   87-suited gagne 11.2%, partage 1.7%
+      - Hauteur : 51.9% 33.3% 17.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.9% 44.9% 41.4% , est devant dans 7.6% 2.0% 0.2% des cas
+      - DoublePaire : 4.5% 11.6% 20.7% , est devant dans 42.6% 19.8% 6.0% des cas
+      - Brelan : 1.7% 3.3% 4.6% , est devant dans 65.4% 45.1% 31.4% des cas
+      - Quinte : 1.1% 3.5% 7.2% , est devant dans 88.2% 58.5% 50.0% des cas
+      - Couleur : 0.8% 2.8% 6.0% , est devant dans 75.0% 81.0% 62.0% des cas
+      - Full : 0.2% 0.6% 2.3% , est devant dans 100.0% 66.7% 48.6% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+53:   A2-suited gagne 11.1%, partage 2.2%
+      - Hauteur : 54.0% 34.9% 20.3% , est devant dans 0.1% 0.2% 0.0% des cas
+      - Paire : 40.2% 48.2% 44.3% , est devant dans 11.0% 7.1% 3.6% des cas
+      - DoublePaire : 3.6% 10.6% 22.3% , est devant dans 61.8% 28.8% 12.8% des cas
+      - Brelan : 1.3% 2.7% 4.4% , est devant dans 55.0% 43.9% 25.8% des cas
+      - Quinte : 0.0% 0.0% 0.3% , est devant dans 0% 0% 0.0% des cas
+      - Couleur : 0.7% 3.0% 6.0% , est devant dans 100.0% 95.6% 75.8% des cas
+      - Full : 0.1% 0.6% 2.5% , est devant dans 100.0% 77.8% 39.5% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+54:   K5-suited gagne 11.1%, partage 2.2%
+      - Hauteur : 54.3% 33.7% 17.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.7% 48.1% 47.1% , est devant dans 16.1% 6.4% 2.5% des cas
+      - DoublePaire : 3.8% 10.6% 20.4% , est devant dans 45.6% 18.6% 7.1% des cas
+      - Brelan : 1.5% 3.0% 4.0% , est devant dans 59.1% 64.4% 39.3% des cas
+      - Quinte : 0.0% 0.5% 1.6% , est devant dans 0% 0.0% 16.0% des cas
+      - Couleur : 0.7% 3.6% 7.2% , est devant dans 100.0% 90.9% 82.6% des cas
+      - Full : 0.1% 0.5% 1.8% , est devant dans 100.0% 75.0% 37.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+55:   96-suited gagne 11.1%, partage 1.9%
+      - Hauteur : 52.5% 33.3% 16.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.3% 46.8% 43.5% , est devant dans 7.1% 1.6% 0.6% des cas
+      - DoublePaire : 4.1% 10.9% 20.9% , est devant dans 32.8% 19.6% 4.8% des cas
+      - Brelan : 1.4% 3.1% 4.5% , est devant dans 76.2% 54.3% 39.7% des cas
+      - Quinte : 0.6% 2.3% 5.0% , est devant dans 100.0% 58.8% 37.3% des cas
+      - Couleur : 1.0% 3.1% 7.4% , est devant dans 100.0% 87.0% 72.7% des cas
+      - Full : 0.1% 0.6% 1.8% , est devant dans 100.0% 88.9% 44.4% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+56:   KT-offsuited gagne 11.1%, partage 2.4%
+      - Hauteur : 51.9% 35.5% 20.2% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 42.0% 47.5% 44.8% , est devant dans 26.4% 13.3% 4.8% des cas
+      - DoublePaire : 3.9% 11.3% 23.1% , est devant dans 51.6% 29.3% 14.6% des cas
+      - Brelan : 1.8% 3.1% 4.6% , est devant dans 82.1% 55.6% 40.0% des cas
+      - Quinte : 0.3% 1.3% 3.2% , est devant dans 100.0% 64.5% 45.9% des cas
+      - Couleur : 0.0% 0.5% 1.8% , est devant dans 0% 50.0% 48.8% des cas
+      - Full : 0.1% 0.6% 2.2% , est devant dans 100.0% 69.0% 57.4% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 100.0% 87.5% des cas
+57:   65-suited gagne 11.0%, partage 2.4%
+      - Hauteur : 49.9% 30.5% 16.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 42.0% 46.2% 40.5% , est devant dans 2.2% 0.7% 0.0% des cas
+      - DoublePaire : 3.6% 11.1% 21.3% , est devant dans 45.3% 17.0% 5.4% des cas
+      - Brelan : 1.5% 2.8% 4.4% , est devant dans 60.9% 47.6% 37.9% des cas
+      - Quinte : 1.5% 4.8% 8.1% , est devant dans 87.0% 56.3% 41.7% des cas
+      - Couleur : 1.4% 3.7% 6.9% , est devant dans 95.2% 80.0% 55.3% des cas
+      - Full : 0.0% 0.7% 2.4% , est devant dans 0% 54.5% 37.1% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+58:   K3-suited gagne 10.9%, partage 1.9%
+      - Hauteur : 55.4% 35.6% 19.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 38.6% 47.1% 45.6% , est devant dans 10.2% 4.9% 1.7% des cas
+      - DoublePaire : 3.7% 10.5% 21.2% , est devant dans 59.6% 26.0% 12.2% des cas
+      - Brelan : 1.5% 3.7% 4.7% , est devant dans 66.7% 45.1% 33.3% des cas
+      - Quinte : 0.0% 0.3% 1.0% , est devant dans 0% 25.0% 21.4% des cas
+      - Couleur : 0.7% 2.4% 6.2% , est devant dans 100.0% 94.1% 73.6% des cas
+      - Full : 0.0% 0.4% 1.8% , est devant dans 0% 66.7% 64.0% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+59:   T7-suited gagne 10.9%, partage 2.1%
+      - Hauteur : 54.4% 34.4% 18.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.3% 45.1% 41.5% , est devant dans 11.2% 3.3% 1.0% des cas
+      - DoublePaire : 3.5% 11.3% 21.2% , est devant dans 51.9% 24.3% 10.1% des cas
+      - Brelan : 1.2% 2.3% 3.9% , est devant dans 88.9% 52.9% 25.9% des cas
+      - Quinte : 0.3% 2.1% 4.9% , est devant dans 100.0% 46.9% 36.5% des cas
+      - Couleur : 1.2% 4.1% 7.5% , est devant dans 88.9% 82.0% 59.8% des cas
+      - Full : 0.1% 0.7% 2.1% , est devant dans 100.0% 80.0% 50.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 50.0% des cas
+60:   Q7-suited gagne 10.9%, partage 2.1%
+      - Hauteur : 50.1% 31.5% 17.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.6% 46.2% 41.7% , est devant dans 14.3% 5.8% 1.0% des cas
+      - DoublePaire : 5.6% 14.1% 24.1% , est devant dans 61.4% 27.5% 11.9% des cas
+      - Brelan : 1.4% 2.8% 4.0% , est devant dans 61.9% 42.9% 26.7% des cas
+      - Quinte : 0.0% 0.9% 2.7% , est devant dans 0% 23.1% 12.5% des cas
+      - Couleur : 1.3% 3.9% 7.4% , est devant dans 80.0% 78.0% 69.4% des cas
+      - Full : 0.1% 0.6% 2.3% , est devant dans 100.0% 55.6% 47.1% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+61:   76-suited gagne 10.7%, partage 2.2%
+      - Hauteur : 51.4% 32.2% 15.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.1% 46.0% 43.0% , est devant dans 4.6% 1.6% 0.0% des cas
+      - DoublePaire : 4.1% 12.6% 22.0% , est devant dans 42.6% 15.6% 4.9% des cas
+      - Brelan : 1.4% 2.5% 3.3% , est devant dans 76.2% 59.5% 32.7% des cas
+      - Quinte : 1.4% 3.9% 7.6% , est devant dans 85.7% 72.4% 46.4% des cas
+      - Couleur : 0.5% 2.2% 5.7% , est devant dans 100.0% 66.7% 61.9% des cas
+      - Full : 0.0% 0.5% 2.2% , est devant dans 0% 50.0% 51.5% des cas
+      - Carré : 0.0% 0.0% 0.3% , est devant dans 0% 0% 80.0% des cas
+62:   J8-suited gagne 10.7%, partage 2.3%
+      - Hauteur : 53.0% 33.7% 19.1% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.7% 47.2% 45.2% , est devant dans 13.6% 4.2% 0.4% des cas
+      - DoublePaire : 4.3% 10.6% 19.1% , est devant dans 50.0% 28.9% 9.8% des cas
+      - Brelan : 1.5% 3.2% 4.6% , est devant dans 68.2% 54.2% 24.6% des cas
+      - Quinte : 0.5% 1.9% 3.7% , est devant dans 71.4% 55.2% 39.3% des cas
+      - Couleur : 1.1% 2.8% 6.1% , est devant dans 76.5% 85.7% 74.7% des cas
+      - Full : 0.0% 0.5% 2.1% , est devant dans 0% 75.0% 64.5% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+63:   JT-offsuited gagne 10.7%, partage 2.1%
+      - Hauteur : 53.3% 35.2% 19.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.3% 46.3% 43.4% , est devant dans 19.7% 8.1% 2.0% des cas
+      - DoublePaire : 3.8% 11.4% 21.9% , est devant dans 47.7% 25.0% 12.6% des cas
+      - Brelan : 1.5% 3.0% 4.3% , est devant dans 62.3% 48.1% 35.7% des cas
+      - Quinte : 0.9% 3.1% 6.6% , est devant dans 85.4% 74.3% 58.6% des cas
+      - Couleur : 0.0% 0.5% 2.0% , est devant dans 0% 18.2% 22.2% des cas
+      - Full : 0.1% 0.5% 2.0% , est devant dans 100.0% 87.0% 52.8% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 100.0% 100.0% 87.5% des cas
+64:   75-suited gagne 10.6%, partage 1.8%
+      - Hauteur : 52.8% 34.2% 18.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.8% 46.4% 41.9% , est devant dans 3.8% 0.8% 0.2% des cas
+      - DoublePaire : 3.6% 10.7% 20.7% , est devant dans 40.0% 13.4% 5.3% des cas
+      - Brelan : 1.4% 2.3% 3.7% , est devant dans 63.6% 50.0% 29.8% des cas
+      - Quinte : 0.7% 2.9% 5.8% , est devant dans 100.0% 75.6% 44.9% des cas
+      - Couleur : 0.7% 2.7% 6.7% , est devant dans 60.0% 69.0% 68.9% des cas
+      - Full : 0.1% 0.7% 2.1% , est devant dans 100.0% 60.0% 45.5% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 0% 100.0% 66.7% des cas
+65:   A7-offsuited gagne 10.6%, partage 2.4%
+      - Hauteur : 52.6% 35.6% 20.9% , est devant dans 0.3% 0.0% 0.0% des cas
+      - Paire : 41.3% 48.3% 46.4% , est devant dans 22.8% 11.4% 4.2% des cas
+      - DoublePaire : 4.5% 12.0% 23.3% , est devant dans 55.0% 36.2% 19.6% des cas
+      - Brelan : 1.5% 3.2% 4.9% , est devant dans 73.1% 48.6% 36.4% des cas
+      - Quinte : 0.0% 0.0% 0.4% , est devant dans 0% 0% 0.0% des cas
+      - Couleur : 0.0% 0.4% 2.1% , est devant dans 0% 77.8% 61.3% des cas
+      - Full : 0.1% 0.5% 1.9% , est devant dans 100.0% 65.2% 49.4% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 83.3% des cas
+66:   86-suited gagne 10.5%, partage 1.7%
+      - Hauteur : 50.8% 31.8% 16.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.7% 48.4% 42.8% , est devant dans 5.0% 1.7% 0.0% des cas
+      - DoublePaire : 4.3% 11.0% 22.9% , est devant dans 42.9% 17.8% 5.3% des cas
+      - Brelan : 1.3% 2.5% 3.7% , est devant dans 57.9% 43.2% 30.9% des cas
+      - Quinte : 1.1% 2.8% 6.1% , est devant dans 75.0% 57.1% 43.3% des cas
+      - Couleur : 0.8% 2.7% 5.7% , est devant dans 100.0% 77.5% 70.2% des cas
+      - Full : 0.1% 0.8% 2.5% , est devant dans 100.0% 83.3% 62.2% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+67:   A8-offsuited gagne 10.5%, partage 1.8%
+      - Hauteur : 54.8% 37.4% 21.5% , est devant dans 0.2% 0.0% 0.0% des cas
+      - Paire : 39.6% 47.2% 46.6% , est devant dans 25.7% 12.2% 5.1% des cas
+      - DoublePaire : 3.8% 11.5% 23.3% , est devant dans 61.4% 38.3% 18.7% des cas
+      - Brelan : 1.7% 2.9% 4.3% , est devant dans 73.7% 53.8% 34.4% des cas
+      - Quinte : 0.0% 0.0% 0.4% , est devant dans 0% 0% 12.5% des cas
+      - Couleur : 0.0% 0.6% 2.2% , est devant dans 0% 69.2% 49.5% des cas
+      - Full : 0.0% 0.4% 1.8% , est devant dans 100.0% 64.7% 62.2% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 100.0% 100.0% des cas
+68:   Q9-offsuited gagne 10.5%, partage 1.8%
+      - Hauteur : 53.3% 35.6% 19.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.5% 46.7% 44.8% , est devant dans 20.7% 9.3% 2.6% des cas
+      - DoublePaire : 4.0% 11.5% 22.2% , est devant dans 48.1% 28.8% 14.1% des cas
+      - Brelan : 1.5% 2.7% 4.1% , est devant dans 78.3% 58.1% 36.2% des cas
+      - Quinte : 0.7% 2.4% 5.6% , est devant dans 93.8% 72.0% 52.3% des cas
+      - Couleur : 0.0% 0.6% 2.2% , est devant dans 0% 38.5% 31.3% des cas
+      - Full : 0.0% 0.4% 1.8% , est devant dans 100.0% 65.0% 54.3% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 83.3% des cas
+69:   J3-suited gagne 10.3%, partage 1.9%
+      - Hauteur : 52.6% 32.9% 18.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.6% 49.1% 43.7% , est devant dans 6.2% 1.7% 0.6% des cas
+      - DoublePaire : 4.1% 11.0% 23.1% , est devant dans 49.2% 28.7% 10.9% des cas
+      - Brelan : 2.0% 3.7% 5.2% , est devant dans 61.3% 45.6% 31.3% des cas
+      - Quinte : 0.0% 0.4% 1.5% , est devant dans 0% 16.7% 8.3% des cas
+      - Couleur : 0.6% 2.7% 6.6% , est devant dans 100.0% 85.7% 73.5% des cas
+      - Full : 0.1% 0.3% 1.4% , est devant dans 100.0% 100.0% 61.9% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+70:   97-suited gagne 10.3%, partage 2.4%
+      - Hauteur : 50.3% 31.6% 16.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.5% 47.5% 43.0% , est devant dans 7.6% 1.9% 0.2% des cas
+      - DoublePaire : 5.3% 10.9% 21.3% , est devant dans 44.2% 20.1% 8.4% des cas
+      - Brelan : 2.2% 3.8% 5.3% , est devant dans 53.1% 43.6% 34.6% des cas
+      - Quinte : 1.1% 3.2% 5.8% , est devant dans 81.3% 61.7% 41.2% des cas
+      - Couleur : 0.6% 2.3% 5.5% , est devant dans 88.9% 75.8% 54.3% des cas
+      - Full : 0.1% 0.8% 2.5% , est devant dans 100.0% 63.6% 47.2% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+71:   T2-suited gagne 10.1%, partage 1.8%
+      - Hauteur : 53.9% 35.6% 18.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.1% 45.4% 45.7% , est devant dans 4.0% 1.0% 0.3% des cas
+      - DoublePaire : 4.3% 11.0% 19.6% , est devant dans 47.0% 19.5% 7.3% des cas
+      - Brelan : 1.8% 3.5% 4.5% , est devant dans 46.4% 33.3% 31.9% des cas
+      - Quinte : 0.0% 0.3% 1.6% , est devant dans 0% 20.0% 12.0% des cas
+      - Couleur : 0.7% 3.3% 8.0% , est devant dans 100.0% 82.4% 73.0% des cas
+      - Full : 0.2% 0.8% 2.0% , est devant dans 100.0% 66.7% 45.2% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 0% 100.0% des cas
+72:   K2-suited gagne 10.1%, partage 1.5%
+      - Hauteur : 56.4% 39.4% 21.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 37.8% 44.0% 44.4% , est devant dans 9.0% 4.4% 1.2% des cas
+      - DoublePaire : 4.5% 11.1% 21.1% , est devant dans 46.3% 23.4% 11.4% des cas
+      - Brelan : 0.7% 1.8% 3.5% , est devant dans 70.0% 55.6% 30.8% des cas
+      - Quinte : 0.0% 0.3% 1.3% , est devant dans 0% 25.0% 10.5% des cas
+      - Couleur : 0.7% 2.9% 5.9% , est devant dans 100.0% 90.7% 78.7% des cas
+      - Full : 0.0% 0.5% 1.9% , est devant dans 0% 75.0% 58.6% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 0% 100.0% des cas
+73:   64-suited gagne 10.1%, partage 1.8%
+      - Hauteur : 53.1% 34.2% 19.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.2% 46.7% 40.1% , est devant dans 2.4% 0.7% 0.2% des cas
+      - DoublePaire : 4.7% 10.1% 21.1% , est devant dans 40.0% 12.5% 5.1% des cas
+      - Brelan : 1.5% 3.0% 4.1% , est devant dans 47.8% 37.8% 33.9% des cas
+      - Quinte : 0.5% 2.8% 6.7% , est devant dans 100.0% 81.0% 46.0% des cas
+      - Couleur : 0.8% 2.3% 6.5% , est devant dans 100.0% 80.0% 53.6% des cas
+      - Full : 0.1% 0.7% 2.3% , est devant dans 100.0% 63.6% 38.2% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+74:   74-suited gagne 10.1%, partage 2.3%
+      - Hauteur : 49.8% 30.9% 16.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.2% 46.7% 41.2% , est devant dans 3.7% 0.7% 0.2% des cas
+      - DoublePaire : 4.4% 12.2% 21.9% , est devant dans 49.3% 14.5% 6.9% des cas
+      - Brelan : 2.2% 3.5% 5.8% , est devant dans 44.1% 46.3% 30.3% des cas
+      - Quinte : 1.4% 3.0% 5.4% , est devant dans 68.2% 57.8% 34.9% des cas
+      - Couleur : 0.8% 3.0% 6.8% , est devant dans 66.7% 64.4% 55.8% des cas
+      - Full : 0.1% 0.7% 2.5% , est devant dans 100.0% 50.0% 42.1% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+75:   J5-suited gagne 10.1%, partage 2.2%
+      - Hauteur : 51.8% 33.6% 19.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.2% 46.6% 42.1% , est devant dans 7.6% 3.2% 0.9% des cas
+      - DoublePaire : 4.9% 12.4% 23.0% , est devant dans 51.3% 24.2% 12.4% des cas
+      - Brelan : 1.1% 2.5% 4.0% , est devant dans 70.6% 38.5% 24.6% des cas
+      - Quinte : 0.0% 1.2% 2.4% , est devant dans 0% 16.7% 13.5% des cas
+      - Couleur : 0.8% 2.9% 6.0% , est devant dans 91.7% 86.4% 72.8% des cas
+      - Full : 0.1% 0.8% 2.7% , est devant dans 100.0% 76.9% 41.5% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+76:   Q6-suited gagne 10.1%, partage 2.6%
+      - Hauteur : 52.1% 35.2% 18.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.8% 45.4% 42.8% , est devant dans 10.3% 3.6% 0.6% des cas
+      - DoublePaire : 4.5% 12.5% 22.8% , est devant dans 52.8% 24.7% 10.2% des cas
+      - Brelan : 1.1% 2.8% 4.2% , est devant dans 72.2% 55.6% 31.3% des cas
+      - Quinte : 0.0% 0.8% 2.5% , est devant dans 0% 0.0% 10.0% des cas
+      - Couleur : 0.4% 2.7% 6.9% , est devant dans 100.0% 72.1% 73.4% des cas
+      - Full : 0.0% 0.6% 1.9% , est devant dans 0% 60.0% 40.0% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 0% 100.0% des cas
+77:   K9-offsuited gagne 10.1%, partage 3.0%
+      - Hauteur : 53.1% 35.1% 19.5% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 40.2% 47.5% 46.0% , est devant dans 25.0% 11.3% 3.4% des cas
+      - DoublePaire : 4.5% 11.3% 21.5% , est devant dans 57.4% 28.9% 14.4% des cas
+      - Brelan : 1.9% 3.4% 4.7% , est devant dans 72.3% 52.6% 40.8% des cas
+      - Quinte : 0.2% 1.5% 3.9% , est devant dans 87.5% 59.1% 36.0% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 50.0% 40.6% des cas
+      - Full : 0.1% 0.6% 2.1% , est devant dans 100.0% 78.6% 52.6% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+78:   T3-suited gagne 9.9%, partage 1.8%
+      - Hauteur : 52.5% 35.9% 19.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.4% 45.9% 44.5% , est devant dans 4.1% 1.6% 0.3% des cas
+      - DoublePaire : 4.2% 10.3% 20.4% , est devant dans 45.9% 29.6% 11.7% des cas
+      - Brelan : 1.4% 3.3% 4.4% , est devant dans 52.4% 41.7% 32.8% des cas
+      - Quinte : 0.0% 0.8% 2.0% , est devant dans 0% 41.7% 20.7% des cas
+      - Couleur : 0.5% 3.1% 6.9% , est devant dans 87.5% 84.4% 61.4% des cas
+      - Full : 0.0% 0.7% 2.5% , est devant dans 0% 80.0% 51.4% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 0.0% des cas
+79:   J9-offsuited gagne 9.9%, partage 2.5%
+      - Hauteur : 53.9% 34.7% 18.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.4% 47.9% 45.3% , est devant dans 18.0% 6.9% 1.9% des cas
+      - DoublePaire : 3.4% 10.2% 20.8% , est devant dans 46.8% 24.4% 11.9% des cas
+      - Brelan : 1.4% 3.2% 4.3% , est devant dans 66.7% 42.9% 32.0% des cas
+      - Quinte : 0.8% 3.0% 6.8% , est devant dans 89.7% 71.4% 57.1% des cas
+      - Couleur : 0.0% 0.5% 2.1% , est devant dans 0% 28.6% 22.2% des cas
+      - Full : 0.0% 0.5% 2.1% , est devant dans 100.0% 57.1% 37.4% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 66.7% des cas
+80:   85-suited gagne 9.8%, partage 2.0%
+      - Hauteur : 51.2% 31.7% 16.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.4% 49.2% 43.3% , est devant dans 5.2% 1.4% 0.0% des cas
+      - DoublePaire : 4.5% 11.7% 22.6% , est devant dans 44.6% 16.1% 7.4% des cas
+      - Brelan : 1.1% 2.4% 3.9% , est devant dans 50.0% 48.6% 25.0% des cas
+      - Quinte : 1.1% 2.1% 4.9% , est devant dans 87.5% 60.0% 41.4% des cas
+      - Couleur : 0.6% 2.2% 6.3% , est devant dans 66.7% 64.5% 60.0% des cas
+      - Full : 0.0% 0.7% 2.5% , est devant dans 0% 70.0% 52.8% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 50.0% des cas
+81:   QT-offsuited gagne 9.8%, partage 2.2%
+      - Hauteur : 54.5% 35.2% 19.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.0% 47.7% 44.9% , est devant dans 22.0% 10.4% 3.2% des cas
+      - DoublePaire : 3.7% 11.3% 22.8% , est devant dans 53.6% 31.5% 11.5% des cas
+      - Brelan : 1.3% 2.9% 4.6% , est devant dans 71.2% 53.4% 35.4% des cas
+      - Quinte : 0.5% 1.8% 4.3% , est devant dans 100.0% 67.5% 49.7% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 25.0% 34.7% des cas
+      - Full : 0.1% 0.5% 2.3% , est devant dans 100.0% 66.7% 52.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 66.7% des cas
+82:   T6-suited gagne 9.7%, partage 2.6%
+      - Hauteur : 53.6% 36.2% 19.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.0% 44.9% 42.8% , est devant dans 10.4% 4.1% 0.8% des cas
+      - DoublePaire : 4.1% 11.1% 22.0% , est devant dans 39.7% 20.1% 8.6% des cas
+      - Brelan : 1.8% 3.1% 4.1% , est devant dans 66.7% 43.8% 30.2% des cas
+      - Quinte : 0.5% 1.3% 4.0% , est devant dans 85.7% 40.0% 27.9% des cas
+      - Couleur : 0.8% 2.9% 6.1% , est devant dans 83.3% 77.3% 69.1% des cas
+      - Full : 0.2% 0.5% 1.9% , est devant dans 100.0% 57.1% 41.4% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+83:   T9-offsuited gagne 9.7%, partage 2.6%
+      - Hauteur : 52.0% 33.3% 18.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.1% 47.1% 43.7% , est devant dans 14.1% 5.3% 1.6% des cas
+      - DoublePaire : 4.3% 12.0% 21.9% , est devant dans 45.3% 23.2% 8.7% des cas
+      - Brelan : 1.4% 2.8% 4.0% , est devant dans 59.7% 48.8% 31.5% des cas
+      - Quinte : 1.1% 3.6% 7.7% , est devant dans 92.0% 74.7% 52.9% des cas
+      - Couleur : 0.0% 0.4% 1.6% , est devant dans 0% 31.3% 24.3% des cas
+      - Full : 0.1% 0.7% 2.5% , est devant dans 100.0% 81.3% 51.3% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+84:   Q4-suited gagne 9.6%, partage 2.6%
+      - Hauteur : 54.1% 34.7% 19.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.8% 46.8% 45.4% , est devant dans 10.2% 4.3% 1.1% des cas
+      - DoublePaire : 3.5% 10.5% 19.6% , est devant dans 39.2% 20.3% 11.2% des cas
+      - Brelan : 1.9% 3.6% 4.6% , est devant dans 50.0% 48.1% 22.4% des cas
+      - Quinte : 0.0% 0.6% 2.4% , est devant dans 0% 0.0% 5.7% des cas
+      - Couleur : 0.6% 2.8% 5.9% , est devant dans 77.8% 85.0% 67.4% des cas
+      - Full : 0.1% 1.1% 2.8% , est devant dans 100.0% 62.5% 61.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+85:   42-suited gagne 9.5%, partage 1.2%
+      - Hauteur : 51.8% 33.4% 19.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.7% 47.0% 41.3% , est devant dans 0.3% 0.1% 0.0% des cas
+      - DoublePaire : 3.7% 11.2% 22.0% , est devant dans 50.9% 17.4% 6.4% des cas
+      - Brelan : 2.2% 3.5% 5.1% , est devant dans 45.5% 32.7% 23.7% des cas
+      - Quinte : 0.5% 1.1% 3.1% , est devant dans 75.0% 50.0% 36.2% des cas
+      - Couleur : 0.9% 3.3% 7.1% , est devant dans 85.7% 71.4% 65.1% des cas
+      - Full : 0.1% 0.6% 1.9% , est devant dans 100.0% 88.9% 55.2% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+86:   Q3-suited gagne 9.5%, partage 2.1%
+      - Hauteur : 53.6% 35.1% 18.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.9% 48.1% 45.8% , est devant dans 6.9% 2.0% 0.7% des cas
+      - DoublePaire : 3.2% 11.1% 22.0% , est devant dans 62.5% 29.1% 12.8% des cas
+      - Brelan : 1.5% 2.6% 4.1% , est devant dans 63.6% 60.5% 27.9% des cas
+      - Quinte : 0.0% 0.3% 1.9% , est devant dans 0% 0.0% 3.6% des cas
+      - Couleur : 0.7% 2.4% 5.6% , est devant dans 90.9% 88.9% 70.2% des cas
+      - Full : 0.1% 0.5% 2.1% , est devant dans 100.0% 57.1% 51.6% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+87:   T4-suited gagne 9.3%, partage 2.3%
+      - Hauteur : 53.6% 34.1% 17.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.6% 46.8% 44.2% , est devant dans 5.6% 1.1% 0.6% des cas
+      - DoublePaire : 4.7% 12.2% 22.5% , est devant dans 39.2% 16.1% 9.0% des cas
+      - Brelan : 1.3% 2.7% 3.7% , est devant dans 66.7% 44.2% 30.5% des cas
+      - Quinte : 0.0% 0.8% 2.9% , est devant dans 0% 15.4% 8.9% des cas
+      - Couleur : 0.6% 2.7% 6.9% , est devant dans 90.0% 85.7% 68.8% des cas
+      - Full : 0.1% 0.7% 2.5% , est devant dans 100.0% 54.5% 30.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+88:   T5-suited gagne 9.3%, partage 2.1%
+      - Hauteur : 53.1% 32.4% 17.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.2% 50.8% 44.9% , est devant dans 7.2% 2.1% 0.3% des cas
+      - DoublePaire : 3.6% 10.4% 23.0% , est devant dans 49.1% 20.1% 9.1% des cas
+      - Brelan : 1.1% 3.0% 4.4% , est devant dans 52.9% 40.0% 33.8% des cas
+      - Quinte : 0.0% 0.4% 2.2% , est devant dans 0% 33.3% 24.2% des cas
+      - Couleur : 0.9% 2.4% 5.8% , est devant dans 84.6% 85.7% 68.6% des cas
+      - Full : 0.1% 0.6% 2.2% , est devant dans 100.0% 66.7% 46.9% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+89:   72-suited gagne 9.2%, partage 1.7%
+      - Hauteur : 53.1% 34.1% 18.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.7% 47.0% 41.9% , est devant dans 1.0% 0.1% 0.0% des cas
+      - DoublePaire : 4.5% 10.9% 23.3% , est devant dans 59.7% 23.8% 10.0% des cas
+      - Brelan : 1.7% 3.1% 4.5% , est devant dans 60.0% 34.8% 20.6% des cas
+      - Quinte : 0.0% 0.5% 1.8% , est devant dans 0% 25.0% 11.1% des cas
+      - Couleur : 1.1% 3.6% 7.7% , est devant dans 81.3% 74.1% 62.1% des cas
+      - Full : 0.1% 0.9% 2.3% , est devant dans 100.0% 46.2% 40.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 50.0% des cas
+90:   Q2-suited gagne 9.2%, partage 1.6%
+      - Hauteur : 53.4% 33.7% 19.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.9% 47.2% 43.6% , est devant dans 7.4% 2.6% 1.4% des cas
+      - DoublePaire : 4.1% 11.9% 22.5% , est devant dans 47.6% 22.7% 7.0% des cas
+      - Brelan : 1.6% 3.4% 4.7% , est devant dans 68.0% 48.1% 25.4% des cas
+      - Quinte : 0.0% 0.3% 1.2% , est devant dans 0% 0.0% 11.1% des cas
+      - Couleur : 0.9% 3.0% 6.8% , est devant dans 100.0% 84.4% 67.3% des cas
+      - Full : 0.0% 0.5% 1.9% , est devant dans 0% 71.4% 55.2% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+91:   A6-offsuited gagne 9.2%, partage 2.8%
+      - Hauteur : 53.1% 36.3% 21.2% , est devant dans 0.0% 0.1% 0.0% des cas
+      - Paire : 41.4% 47.7% 45.7% , est devant dans 18.3% 9.3% 3.5% des cas
+      - DoublePaire : 3.8% 11.9% 23.4% , est devant dans 54.9% 27.0% 16.4% des cas
+      - Brelan : 1.5% 2.9% 4.3% , est devant dans 78.6% 51.5% 36.7% des cas
+      - Quinte : 0.0% 0.1% 1.0% , est devant dans 0% 0.0% 17.8% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 43.5% 38.4% des cas
+      - Full : 0.1% 0.6% 2.2% , est devant dans 100.0% 76.9% 46.5% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+92:   63-suited gagne 9.1%, partage 1.8%
+      - Hauteur : 51.2% 34.0% 17.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.9% 45.2% 42.2% , est devant dans 2.5% 0.3% 0.3% des cas
+      - DoublePaire : 3.8% 11.2% 22.1% , est devant dans 44.1% 16.0% 4.1% des cas
+      - Brelan : 1.3% 3.1% 4.5% , est devant dans 40.0% 42.9% 25.7% des cas
+      - Quinte : 0.8% 2.5% 5.1% , est devant dans 91.7% 61.5% 41.8% des cas
+      - Couleur : 1.0% 3.1% 6.6% , est devant dans 100.0% 68.8% 58.8% des cas
+      - Full : 0.1% 0.7% 2.2% , est devant dans 100.0% 45.5% 41.2% des cas
+      - Carré : 0.1% 0.1% 0.1% , est devant dans 100.0% 100.0% 50.0% des cas
+93:   84-suited gagne 9.1%, partage 2.0%
+      - Hauteur : 51.9% 33.3% 17.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.2% 46.5% 41.4% , est devant dans 3.6% 0.9% 0.5% des cas
+      - DoublePaire : 4.6% 12.4% 23.9% , est devant dans 39.7% 23.5% 6.8% des cas
+      - Brelan : 1.6% 3.3% 4.4% , est devant dans 58.3% 38.8% 33.8% des cas
+      - Quinte : 0.3% 1.0% 3.4% , est devant dans 75.0% 42.9% 26.0% des cas
+      - Couleur : 1.3% 3.1% 6.7% , est devant dans 78.9% 68.9% 57.6% des cas
+      - Full : 0.1% 0.3% 2.2% , est devant dans 100.0% 40.0% 45.5% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+94:   Q8-offsuited gagne 9.1%, partage 2.1%
+      - Hauteur : 53.5% 34.8% 19.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.7% 47.7% 45.0% , est devant dans 18.9% 7.5% 2.2% des cas
+      - DoublePaire : 3.6% 11.6% 22.2% , est devant dans 55.2% 29.2% 13.9% des cas
+      - Brelan : 1.6% 3.3% 4.6% , est devant dans 75.3% 56.8% 41.0% des cas
+      - Quinte : 0.4% 1.7% 3.8% , est devant dans 80.0% 51.3% 34.1% des cas
+      - Couleur : 0.0% 0.4% 2.2% , est devant dans 0% 36.8% 24.0% des cas
+      - Full : 0.1% 0.5% 2.1% , est devant dans 100.0% 71.4% 59.4% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+95:   73-suited gagne 9.0%, partage 1.1%
+      - Hauteur : 53.0% 32.9% 17.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.0% 48.1% 43.9% , est devant dans 2.0% 0.0% 0.0% des cas
+      - DoublePaire : 4.3% 11.1% 22.0% , est devant dans 37.5% 19.4% 5.8% des cas
+      - Brelan : 1.1% 2.4% 4.1% , est devant dans 64.7% 55.6% 36.7% des cas
+      - Quinte : 0.4% 0.9% 3.1% , est devant dans 66.7% 38.5% 37.0% des cas
+      - Couleur : 0.9% 3.7% 7.4% , est devant dans 64.3% 63.6% 55.5% des cas
+      - Full : 0.1% 0.8% 2.4% , est devant dans 100.0% 66.7% 36.1% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+96:   A3-offsuited gagne 9.0%, partage 2.2%
+      - Hauteur : 53.5% 35.3% 19.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.0% 49.6% 48.8% , est devant dans 12.9% 6.0% 3.2% des cas
+      - DoublePaire : 3.7% 10.6% 22.4% , est devant dans 51.2% 29.0% 15.5% des cas
+      - Brelan : 1.6% 3.2% 4.3% , est devant dans 72.0% 53.1% 38.3% des cas
+      - Quinte : 0.0% 0.0% 0.5% , est devant dans 0% 0.0% 9.5% des cas
+      - Couleur : 0.0% 0.6% 2.2% , est devant dans 0% 40.7% 44.9% des cas
+      - Full : 0.1% 0.5% 2.2% , est devant dans 100.0% 76.0% 52.5% des cas
+      - Carré : 0.1% 0.1% 0.2% , est devant dans 100.0% 100.0% 75.0% des cas
+97:   A4-offsuited gagne 9.0%, partage 2.6%
+      - Hauteur : 53.8% 36.5% 22.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.1% 47.1% 45.5% , est devant dans 14.8% 7.7% 3.5% des cas
+      - DoublePaire : 4.3% 11.7% 21.9% , est devant dans 57.4% 30.7% 15.6% des cas
+      - Brelan : 1.7% 3.5% 5.0% , est devant dans 77.3% 54.1% 40.4% des cas
+      - Quinte : 0.0% 0.1% 0.6% , est devant dans 0% 20.0% 14.8% des cas
+      - Couleur : 0.0% 0.5% 2.1% , est devant dans 0% 52.2% 40.4% des cas
+      - Full : 0.1% 0.4% 2.1% , est devant dans 100.0% 63.2% 44.6% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 100.0% 85.7% des cas
+98:   82-suited gagne 8.9%, partage 2.1%
+      - Hauteur : 52.2% 34.4% 17.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.8% 47.7% 46.8% , est devant dans 2.2% 0.5% 0.3% des cas
+      - DoublePaire : 3.6% 9.9% 18.9% , est devant dans 48.2% 19.5% 7.2% des cas
+      - Brelan : 2.1% 3.4% 4.7% , est devant dans 51.5% 41.5% 25.0% des cas
+      - Quinte : 0.0% 0.6% 2.4% , est devant dans 0% 11.1% 8.1% des cas
+      - Couleur : 1.1% 3.2% 7.4% , est devant dans 88.2% 75.5% 63.2% des cas
+      - Full : 0.1% 0.7% 2.3% , est devant dans 100.0% 90.9% 54.3% des cas
+      - Carré : 0.0% 0.1% 0.3% , est devant dans 0% 100.0% 75.0% des cas
+99:   A2-offsuited gagne 8.7%, partage 2.5%
+      - Hauteur : 54.4% 37.1% 21.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.6% 48.0% 46.6% , est devant dans 10.9% 6.4% 3.3% des cas
+      - DoublePaire : 3.2% 10.7% 22.0% , est devant dans 53.4% 28.3% 14.6% des cas
+      - Brelan : 1.4% 2.8% 4.4% , est devant dans 66.2% 57.9% 40.8% des cas
+      - Quinte : 0.0% 0.2% 0.7% , est devant dans 0% 0.0% 3.2% des cas
+      - Couleur : 0.0% 0.4% 2.2% , est devant dans 0% 52.9% 39.2% des cas
+      - Full : 0.2% 0.8% 2.3% , est devant dans 100.0% 68.4% 47.6% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 100.0% 100.0% 100.0% des cas
+100:   54-suited gagne 8.7%, partage 2.1%
+      - Hauteur : 52.7% 32.0% 17.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.8% 47.6% 41.6% , est devant dans 1.4% 0.5% 0.0% des cas
+      - DoublePaire : 4.0% 11.7% 22.5% , est devant dans 41.9% 15.5% 4.6% des cas
+      - Brelan : 1.2% 3.2% 4.8% , est devant dans 63.2% 40.0% 26.7% des cas
+      - Quinte : 0.6% 2.3% 5.4% , est devant dans 88.9% 63.9% 36.9% des cas
+      - Couleur : 0.6% 2.6% 6.3% , est devant dans 60.0% 67.5% 54.1% des cas
+      - Full : 0.0% 0.5% 2.3% , est devant dans 0% 71.4% 40.0% des cas
+      - Carré : 0.1% 0.1% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+101:   J4-suited gagne 8.7%, partage 2.7%
+      - Hauteur : 51.9% 34.3% 19.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.5% 47.8% 44.4% , est devant dans 8.8% 2.8% 0.6% des cas
+      - DoublePaire : 3.9% 11.4% 21.5% , est devant dans 55.9% 23.3% 9.2% des cas
+      - Brelan : 1.7% 3.0% 3.8% , est devant dans 68.0% 50.0% 32.8% des cas
+      - Quinte : 0.0% 0.6% 2.7% , est devant dans 0% 11.1% 9.8% des cas
+      - Couleur : 1.0% 2.4% 5.3% , est devant dans 73.3% 83.3% 68.8% des cas
+      - Full : 0.1% 0.3% 2.5% , est devant dans 100.0% 60.0% 50.0% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+102:   T8-offsuited gagne 8.7%, partage 2.4%
+      - Hauteur : 51.5% 33.5% 17.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.8% 48.7% 45.0% , est devant dans 12.4% 4.0% 1.0% des cas
+      - DoublePaire : 4.2% 10.7% 22.2% , est devant dans 47.6% 24.0% 10.1% des cas
+      - Brelan : 1.6% 2.8% 4.2% , est devant dans 64.4% 50.0% 28.4% des cas
+      - Quinte : 0.8% 2.8% 6.4% , est devant dans 94.6% 59.2% 43.9% des cas
+      - Couleur : 0.0% 0.3% 1.8% , est devant dans 0% 33.3% 23.2% des cas
+      - Full : 0.1% 1.0% 2.5% , est devant dans 100.0% 76.6% 60.2% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 100.0% 100.0% des cas
+103:   A5-offsuited gagne 8.6%, partage 3.2%
+      - Hauteur : 52.8% 35.6% 20.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.3% 48.2% 46.3% , est devant dans 13.8% 6.7% 3.3% des cas
+      - DoublePaire : 4.3% 12.2% 24.0% , est devant dans 53.3% 27.6% 14.6% des cas
+      - Brelan : 1.6% 3.0% 4.6% , est devant dans 74.6% 52.5% 30.5% des cas
+      - Quinte : 0.0% 0.0% 0.5% , est devant dans 0% 50.0% 4.8% des cas
+      - Couleur : 0.0% 0.4% 1.9% , est devant dans 0% 35.3% 47.7% des cas
+      - Full : 0.0% 0.5% 2.3% , est devant dans 100.0% 45.8% 49.5% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+104:   K8-offsuited gagne 8.6%, partage 2.2%
+      - Hauteur : 54.3% 37.1% 21.1% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.7% 46.6% 45.0% , est devant dans 20.5% 9.7% 2.8% des cas
+      - DoublePaire : 4.4% 11.5% 23.2% , est devant dans 53.3% 25.2% 14.0% des cas
+      - Brelan : 1.5% 3.1% 4.7% , est devant dans 74.2% 56.4% 37.5% des cas
+      - Quinte : 0.0% 0.5% 1.9% , est devant dans 0% 25.0% 16.1% des cas
+      - Couleur : 0.0% 0.4% 1.6% , est devant dans 0% 70.6% 43.8% des cas
+      - Full : 0.1% 0.7% 2.3% , est devant dans 100.0% 71.0% 51.5% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 0% 100.0% 100.0% des cas
+105:   62-suited gagne 8.5%, partage 1.6%
+      - Hauteur : 53.1% 34.0% 18.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.8% 46.3% 42.3% , est devant dans 1.8% 0.1% 0.0% des cas
+      - DoublePaire : 4.1% 11.9% 22.5% , est devant dans 56.5% 23.6% 5.6% des cas
+      - Brelan : 1.8% 3.1% 4.1% , est devant dans 48.1% 34.8% 18.0% des cas
+      - Quinte : 0.4% 1.3% 3.4% , est devant dans 100.0% 55.0% 37.3% des cas
+      - Couleur : 0.7% 2.9% 6.8% , est devant dans 72.7% 83.7% 64.7% des cas
+      - Full : 0.1% 0.5% 2.4% , est devant dans 100.0% 28.6% 33.3% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+106:   53-suited gagne 8.5%, partage 1.3%
+      - Hauteur : 51.8% 34.0% 18.1% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.9% 44.6% 41.1% , est devant dans 0.8% 0.2% 0.0% des cas
+      - DoublePaire : 4.6% 12.8% 23.4% , est devant dans 34.8% 16.8% 2.9% des cas
+      - Brelan : 1.5% 2.6% 4.4% , est devant dans 59.1% 46.2% 37.9% des cas
+      - Quinte : 0.9% 2.0% 4.2% , est devant dans 92.9% 80.0% 38.7% des cas
+      - Couleur : 1.1% 3.4% 6.6% , est devant dans 82.4% 68.0% 52.0% des cas
+      - Full : 0.1% 0.6% 2.3% , est devant dans 100.0% 66.7% 47.1% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+107:   93-suited gagne 8.5%, partage 1.5%
+      - Hauteur : 51.8% 33.1% 17.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.0% 47.6% 43.9% , est devant dans 4.5% 1.5% 0.2% des cas
+      - DoublePaire : 4.2% 12.3% 22.9% , est devant dans 45.3% 21.1% 9.0% des cas
+      - Brelan : 1.9% 3.2% 4.2% , est devant dans 64.3% 40.8% 28.1% des cas
+      - Quinte : 0.0% 0.5% 2.4% , est devant dans 0% 57.1% 22.2% des cas
+      - Couleur : 1.1% 2.5% 6.5% , est devant dans 100.0% 71.1% 52.0% des cas
+      - Full : 0.1% 0.9% 2.7% , est devant dans 100.0% 53.8% 45.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+108:   J2-suited gagne 8.3%, partage 1.2%
+      - Hauteur : 52.6% 36.7% 21.1% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.2% 46.3% 43.9% , est devant dans 5.8% 2.7% 0.4% des cas
+      - DoublePaire : 3.5% 10.9% 21.4% , est devant dans 51.9% 20.8% 7.3% des cas
+      - Brelan : 1.7% 2.7% 4.1% , est devant dans 61.5% 48.8% 33.3% des cas
+      - Quinte : 0.0% 0.5% 1.6% , est devant dans 0% 0.0% 0.0% des cas
+      - Couleur : 0.9% 2.5% 5.9% , est devant dans 92.9% 86.8% 71.4% des cas
+      - Full : 0.1% 0.5% 1.8% , est devant dans 100.0% 100.0% 46.4% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 0% 100.0% 66.7% des cas
+109:   K7-offsuited gagne 8.2%, partage 2.7%
+      - Hauteur : 53.7% 35.9% 19.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.5% 48.2% 46.3% , est devant dans 16.5% 7.5% 2.7% des cas
+      - DoublePaire : 4.0% 11.3% 22.8% , est devant dans 52.5% 30.5% 14.3% des cas
+      - Brelan : 1.6% 2.8% 4.5% , est devant dans 64.0% 52.3% 32.4% des cas
+      - Quinte : 0.0% 0.5% 2.1% , est devant dans 0% 39.1% 14.6% des cas
+      - Couleur : 0.0% 0.7% 2.3% , est devant dans 0% 41.9% 41.9% des cas
+      - Full : 0.1% 0.6% 2.3% , est devant dans 100.0% 44.4% 38.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+110:   43-suited gagne 8.1%, partage 1.3%
+      - Hauteur : 52.7% 33.6% 17.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.0% 47.4% 44.1% , est devant dans 0.8% 0.0% 0.0% des cas
+      - DoublePaire : 3.4% 11.0% 22.0% , est devant dans 32.0% 14.7% 4.6% des cas
+      - Brelan : 1.6% 3.3% 4.6% , est devant dans 45.8% 32.7% 24.6% des cas
+      - Quinte : 0.5% 1.6% 3.6% , est devant dans 87.5% 58.3% 49.1% des cas
+      - Couleur : 0.7% 2.6% 6.4% , est devant dans 70.0% 73.7% 54.7% des cas
+      - Full : 0.1% 0.4% 1.8% , est devant dans 100.0% 50.0% 34.6% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+111:   K4-offsuited gagne 8.0%, partage 2.6%
+      - Hauteur : 52.7% 34.8% 20.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.8% 48.0% 45.5% , est devant dans 12.1% 4.9% 1.8% des cas
+      - DoublePaire : 4.7% 12.4% 23.3% , est devant dans 53.1% 27.9% 13.1% des cas
+      - Brelan : 1.6% 3.2% 4.8% , est devant dans 64.8% 49.3% 38.1% des cas
+      - Quinte : 0.0% 0.4% 1.8% , est devant dans 0% 5.3% 6.2% des cas
+      - Couleur : 0.0% 0.4% 1.8% , est devant dans 0% 37.5% 37.8% des cas
+      - Full : 0.2% 0.7% 2.6% , est devant dans 100.0% 66.7% 54.8% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+112:   98-offsuited gagne 8.0%, partage 2.1%
+      - Hauteur : 53.1% 34.5% 19.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.8% 46.3% 42.8% , est devant dans 11.2% 3.3% 1.0% des cas
+      - DoublePaire : 4.3% 11.6% 22.6% , est devant dans 45.5% 20.4% 7.3% des cas
+      - Brelan : 1.5% 3.0% 4.0% , est devant dans 61.2% 42.1% 29.1% des cas
+      - Quinte : 1.2% 3.5% 6.7% , est devant dans 88.5% 72.3% 48.5% des cas
+      - Couleur : 0.0% 0.4% 1.9% , est devant dans 0% 6.3% 15.3% des cas
+      - Full : 0.1% 0.7% 2.3% , est devant dans 100.0% 64.5% 51.0% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 83.3% des cas
+113:   94-suited gagne 7.9%, partage 1.6%
+      - Hauteur : 54.0% 34.1% 18.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.0% 46.9% 44.5% , est devant dans 4.9% 1.4% 0.2% des cas
+      - DoublePaire : 4.6% 12.7% 23.5% , est devant dans 50.0% 21.9% 8.9% des cas
+      - Brelan : 1.5% 2.9% 3.4% , est devant dans 68.2% 44.2% 28.0% des cas
+      - Quinte : 0.0% 0.5% 2.2% , est devant dans 0% 12.5% 24.2% des cas
+      - Couleur : 0.7% 2.0% 5.2% , est devant dans 100.0% 73.3% 59.7% des cas
+      - Full : 0.2% 0.9% 2.2% , est devant dans 100.0% 76.9% 53.1% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 0.0% des cas
+114:   J8-offsuited gagne 7.9%, partage 2.4%
+      - Hauteur : 54.2% 34.9% 20.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.7% 47.9% 44.2% , est devant dans 15.3% 5.5% 0.8% des cas
+      - DoublePaire : 3.8% 10.5% 21.5% , est devant dans 53.2% 26.8% 10.9% des cas
+      - Brelan : 1.5% 3.2% 4.6% , est devant dans 62.1% 51.0% 32.4% des cas
+      - Quinte : 0.9% 2.4% 5.0% , est devant dans 69.2% 49.5% 39.7% des cas
+      - Couleur : 0.0% 0.5% 1.9% , est devant dans 0% 16.7% 19.3% des cas
+      - Full : 0.0% 0.5% 2.1% , est devant dans 100.0% 54.5% 55.2% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+115:   52-suited gagne 7.7%, partage 1.2%
+      - Hauteur : 51.0% 32.0% 18.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 42.4% 49.0% 44.6% , est devant dans 1.4% 0.1% 0.0% des cas
+      - DoublePaire : 3.6% 10.7% 22.2% , est devant dans 31.5% 11.7% 5.6% des cas
+      - Brelan : 1.3% 2.6% 3.8% , est devant dans 65.0% 30.8% 26.3% des cas
+      - Quinte : 0.3% 1.5% 3.3% , est devant dans 100.0% 54.5% 30.0% des cas
+      - Couleur : 1.3% 3.4% 6.2% , est devant dans 84.2% 80.8% 59.6% des cas
+      - Full : 0.1% 0.8% 1.9% , est devant dans 100.0% 66.7% 37.9% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 0% des cas
+116:   95-suited gagne 7.7%, partage 2.4%
+      - Hauteur : 52.8% 34.9% 18.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.5% 47.2% 44.6% , est devant dans 5.7% 2.4% 0.3% des cas
+      - DoublePaire : 2.6% 10.1% 20.9% , est devant dans 30.0% 17.6% 5.0% des cas
+      - Brelan : 1.6% 3.0% 4.4% , est devant dans 75.0% 45.7% 26.9% des cas
+      - Quinte : 0.4% 1.3% 3.7% , est devant dans 100.0% 50.0% 25.0% des cas
+      - Couleur : 1.0% 3.0% 5.9% , est devant dans 93.3% 77.8% 61.8% des cas
+      - Full : 0.1% 0.4% 1.6% , est devant dans 100.0% 50.0% 45.8% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+117:   K6-offsuited gagne 7.7%, partage 2.8%
+      - Hauteur : 53.5% 35.6% 19.8% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 41.1% 48.7% 46.8% , est devant dans 14.9% 6.7% 2.7% des cas
+      - DoublePaire : 3.8% 10.7% 21.9% , est devant dans 56.6% 26.2% 12.0% des cas
+      - Brelan : 1.5% 3.2% 4.5% , est devant dans 65.7% 51.7% 33.5% des cas
+      - Quinte : 0.0% 0.6% 2.2% , est devant dans 0% 17.2% 12.0% des cas
+      - Couleur : 0.0% 0.4% 2.1% , est devant dans 0% 36.8% 36.1% des cas
+      - Full : 0.1% 0.8% 2.5% , est devant dans 83.3% 81.1% 49.6% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 100.0% des cas
+118:   J7-offsuited gagne 7.7%, partage 2.2%
+      - Hauteur : 54.6% 36.7% 21.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.4% 45.8% 43.4% , est devant dans 13.0% 4.8% 1.4% des cas
+      - DoublePaire : 3.8% 11.3% 22.5% , est devant dans 49.7% 22.9% 10.7% des cas
+      - Brelan : 1.8% 3.6% 4.7% , est devant dans 70.7% 50.9% 39.0% des cas
+      - Quinte : 0.3% 1.7% 3.8% , est devant dans 66.7% 46.8% 36.0% des cas
+      - Couleur : 0.0% 0.4% 2.0% , est devant dans 0% 23.5% 20.0% des cas
+      - Full : 0.1% 0.5% 2.1% , est devant dans 100.0% 72.0% 49.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+119:   92-suited gagne 7.6%, partage 1.4%
+      - Hauteur : 55.0% 35.7% 17.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 38.1% 47.1% 44.8% , est devant dans 3.0% 0.8% 0.3% des cas
+      - DoublePaire : 4.2% 10.8% 23.1% , est devant dans 47.6% 16.0% 5.7% des cas
+      - Brelan : 1.7% 3.1% 4.6% , est devant dans 60.0% 44.7% 34.3% des cas
+      - Quinte : 0.0% 0.5% 2.4% , est devant dans 0% 50.0% 25.0% des cas
+      - Couleur : 0.8% 2.5% 5.8% , est devant dans 75.0% 76.3% 56.8% des cas
+      - Full : 0.2% 0.3% 1.4% , est devant dans 100.0% 75.0% 42.9% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+120:   Q7-offsuited gagne 7.5%, partage 2.4%
+      - Hauteur : 52.7% 34.9% 19.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.7% 48.7% 46.2% , est devant dans 15.9% 5.1% 2.0% des cas
+      - DoublePaire : 3.9% 11.8% 23.3% , est devant dans 55.6% 28.7% 12.1% des cas
+      - Brelan : 1.5% 3.1% 5.1% , est devant dans 78.6% 55.4% 31.9% des cas
+      - Quinte : 0.0% 0.4% 2.0% , est devant dans 0% 18.8% 21.7% des cas
+      - Couleur : 0.0% 0.5% 1.7% , est devant dans 0% 37.5% 26.3% des cas
+      - Full : 0.1% 0.6% 2.3% , est devant dans 100.0% 85.2% 50.5% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+121:   Q6-offsuited gagne 7.4%, partage 2.3%
+      - Hauteur : 54.8% 35.3% 19.8% , est devant dans 0.0% 0.1% 0.0% des cas
+      - Paire : 39.1% 48.8% 46.5% , est devant dans 12.3% 5.1% 1.8% des cas
+      - DoublePaire : 4.4% 10.8% 22.0% , est devant dans 51.0% 24.7% 11.1% des cas
+      - Brelan : 1.6% 3.1% 4.6% , est devant dans 74.3% 52.2% 36.7% des cas
+      - Quinte : 0.0% 0.9% 2.5% , est devant dans 0% 12.2% 13.4% des cas
+      - Couleur : 0.0% 0.3% 2.0% , est devant dans 0% 33.3% 23.6% des cas
+      - Full : 0.1% 0.7% 2.4% , est devant dans 100.0% 75.0% 59.4% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 0% 100.0% 85.7% des cas
+122:   87-offsuited gagne 7.4%, partage 2.0%
+      - Hauteur : 52.2% 33.9% 18.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.9% 46.3% 42.9% , est devant dans 6.2% 1.2% 0.2% des cas
+      - DoublePaire : 3.7% 11.5% 22.3% , est devant dans 46.8% 19.4% 6.3% des cas
+      - Brelan : 1.6% 3.1% 4.2% , est devant dans 68.9% 40.8% 28.6% des cas
+      - Quinte : 1.5% 4.2% 7.9% , est devant dans 86.8% 65.6% 44.3% des cas
+      - Couleur : 0.0% 0.4% 2.1% , est devant dans 0% 11.1% 7.3% des cas
+      - Full : 0.1% 0.6% 2.1% , est devant dans 100.0% 67.9% 49.0% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 100.0% 100.0% 83.3% des cas
+123:   83-suited gagne 7.3%, partage 1.6%
+      - Hauteur : 55.2% 35.3% 19.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 38.4% 48.1% 43.9% , est devant dans 3.4% 0.5% 0.3% des cas
+      - DoublePaire : 3.7% 10.4% 21.7% , est devant dans 38.6% 17.6% 4.8% des cas
+      - Brelan : 1.5% 2.5% 4.3% , est devant dans 43.5% 23.7% 15.2% des cas
+      - Quinte : 0.0% 0.7% 2.4% , est devant dans 0% 18.2% 18.9% des cas
+      - Couleur : 0.9% 2.4% 6.4% , est devant dans 85.7% 75.7% 64.9% des cas
+      - Full : 0.1% 0.5% 1.6% , est devant dans 100.0% 71.4% 48.0% des cas
+      - Carré : 0.1% 0.1% 0.2% , est devant dans 100.0% 100.0% 66.7% des cas
+124:   86-offsuited gagne 7.3%, partage 2.8%
+      - Hauteur : 53.5% 35.3% 19.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.5% 45.9% 42.8% , est devant dans 5.4% 1.2% 0.3% des cas
+      - DoublePaire : 4.1% 11.7% 22.9% , est devant dans 43.7% 16.3% 6.7% des cas
+      - Brelan : 1.6% 2.8% 4.3% , est devant dans 67.1% 41.2% 31.5% des cas
+      - Quinte : 1.2% 3.2% 6.5% , est devant dans 94.7% 68.7% 42.3% des cas
+      - Couleur : 0.0% 0.3% 1.7% , est devant dans 0% 23.1% 18.8% des cas
+      - Full : 0.1% 0.8% 2.4% , est devant dans 100.0% 73.0% 48.2% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 66.7% des cas
+125:   K5-offsuited gagne 7.2%, partage 2.3%
+      - Hauteur : 54.6% 36.6% 20.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.6% 47.3% 45.2% , est devant dans 13.8% 5.4% 1.5% des cas
+      - DoublePaire : 4.2% 11.7% 23.7% , est devant dans 56.5% 27.7% 12.3% des cas
+      - Brelan : 1.6% 3.2% 4.4% , est devant dans 54.8% 44.1% 31.7% des cas
+      - Quinte : 0.0% 0.4% 2.0% , est devant dans 0% 29.4% 13.2% des cas
+      - Couleur : 0.0% 0.3% 1.9% , est devant dans 0% 58.3% 39.1% des cas
+      - Full : 0.0% 0.5% 2.1% , est devant dans 100.0% 62.5% 53.1% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 100.0% 100.0% 75.0% des cas
+126:   76-offsuited gagne 7.1%, partage 2.4%
+      - Hauteur : 51.5% 33.5% 17.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.5% 46.3% 43.1% , est devant dans 4.3% 1.2% 0.1% des cas
+      - DoublePaire : 3.9% 12.1% 22.3% , est devant dans 41.7% 16.5% 6.0% des cas
+      - Brelan : 1.5% 3.0% 4.5% , est devant dans 50.7% 43.3% 28.4% des cas
+      - Quinte : 1.5% 4.2% 8.2% , est devant dans 89.4% 60.6% 42.2% des cas
+      - Couleur : 0.0% 0.4% 1.5% , est devant dans 0% 12.5% 5.8% des cas
+      - Full : 0.0% 0.6% 2.4% , est devant dans 100.0% 60.0% 34.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+127:   K2-offsuited gagne 7.0%, partage 1.8%
+      - Hauteur : 53.4% 36.5% 20.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.7% 47.7% 47.1% , est devant dans 10.0% 4.7% 1.9% des cas
+      - DoublePaire : 4.0% 11.2% 22.4% , est devant dans 45.6% 22.7% 11.6% des cas
+      - Brelan : 1.8% 3.5% 4.4% , est devant dans 74.7% 55.6% 40.0% des cas
+      - Quinte : 0.0% 0.2% 1.1% , est devant dans 0% 37.5% 15.4% des cas
+      - Couleur : 0.0% 0.4% 1.9% , est devant dans 0% 18.8% 24.7% des cas
+      - Full : 0.0% 0.5% 2.1% , est devant dans 100.0% 66.7% 43.3% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 0% 87.5% des cas
+128:   65-offsuited gagne 6.9%, partage 1.9%
+      - Hauteur : 52.9% 33.6% 17.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.0% 47.7% 42.9% , est devant dans 2.8% 0.5% 0.0% des cas
+      - DoublePaire : 4.0% 10.6% 22.8% , est devant dans 45.9% 15.0% 4.8% des cas
+      - Brelan : 1.3% 3.0% 4.3% , est devant dans 66.7% 45.9% 30.8% des cas
+      - Quinte : 1.6% 3.9% 8.0% , est devant dans 88.7% 67.0% 42.5% des cas
+      - Couleur : 0.0% 0.6% 1.8% , est devant dans 0% 11.5% 7.3% des cas
+      - Full : 0.1% 0.6% 2.2% , est devant dans 100.0% 71.4% 41.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 83.3% des cas
+129:   97-offsuited gagne 6.9%, partage 2.5%
+      - Hauteur : 52.3% 34.0% 18.1% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.4% 48.5% 44.8% , est devant dans 9.1% 3.0% 0.4% des cas
+      - DoublePaire : 3.7% 11.1% 22.8% , est devant dans 51.5% 22.1% 6.3% des cas
+      - Brelan : 1.3% 2.6% 3.8% , est devant dans 72.1% 48.3% 29.2% des cas
+      - Quinte : 1.2% 3.0% 6.4% , est devant dans 81.8% 69.9% 46.2% des cas
+      - Couleur : 0.0% 0.4% 2.2% , est devant dans 0% 15.8% 11.2% des cas
+      - Full : 0.1% 0.4% 1.9% , est devant dans 100.0% 72.2% 48.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 83.3% des cas
+130:   T6-offsuited gagne 6.7%, partage 2.4%
+      - Hauteur : 53.6% 35.7% 19.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.1% 47.2% 45.6% , est devant dans 8.1% 2.4% 0.7% des cas
+      - DoublePaire : 3.7% 10.9% 22.1% , est devant dans 45.8% 23.2% 9.0% des cas
+      - Brelan : 2.0% 3.4% 4.5% , est devant dans 62.1% 49.0% 31.3% des cas
+      - Quinte : 0.5% 1.6% 3.9% , est devant dans 76.2% 43.7% 32.2% des cas
+      - Couleur : 0.0% 0.3% 1.8% , est devant dans 0% 6.7% 16.0% des cas
+      - Full : 0.1% 0.7% 2.4% , est devant dans 100.0% 53.1% 50.9% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 100.0% 100.0% 100.0% des cas
+131:   T7-offsuited gagne 6.7%, partage 2.1%
+      - Hauteur : 53.0% 35.0% 20.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.9% 47.1% 43.2% , est devant dans 11.1% 4.6% 0.7% des cas
+      - DoublePaire : 4.1% 11.7% 23.4% , est devant dans 50.5% 19.8% 7.2% des cas
+      - Brelan : 1.4% 2.9% 4.1% , est devant dans 69.8% 46.3% 29.1% des cas
+      - Quinte : 0.5% 2.1% 4.9% , est devant dans 92.0% 68.0% 41.6% des cas
+      - Couleur : 0.0% 0.5% 1.9% , est devant dans 0% 17.4% 19.3% des cas
+      - Full : 0.1% 0.5% 1.9% , est devant dans 100.0% 64.0% 52.3% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+132:   K3-offsuited gagne 6.6%, partage 2.1%
+      - Hauteur : 54.6% 37.0% 21.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.1% 47.5% 45.6% , est devant dans 10.0% 4.6% 1.5% des cas
+      - DoublePaire : 3.8% 11.3% 22.7% , est devant dans 52.4% 25.4% 11.5% des cas
+      - Brelan : 1.4% 2.9% 4.5% , est devant dans 61.9% 47.7% 32.8% des cas
+      - Quinte : 0.0% 0.3% 1.6% , est devant dans 0% 7.1% 2.8% des cas
+      - Couleur : 0.0% 0.4% 2.0% , est devant dans 0% 41.2% 36.7% des cas
+      - Full : 0.1% 0.6% 2.0% , est devant dans 100.0% 84.6% 50.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+133:   75-offsuited gagne 6.6%, partage 2.0%
+      - Hauteur : 51.6% 33.6% 19.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.7% 47.0% 42.3% , est devant dans 4.2% 0.8% 0.2% des cas
+      - DoublePaire : 3.8% 11.9% 23.8% , est devant dans 46.5% 16.1% 5.8% des cas
+      - Brelan : 1.7% 3.2% 4.1% , est devant dans 61.8% 45.1% 33.9% des cas
+      - Quinte : 1.1% 3.2% 6.2% , est devant dans 90.0% 64.8% 41.1% des cas
+      - Couleur : 0.0% 0.4% 1.8% , est devant dans 0% 10.0% 6.1% des cas
+      - Full : 0.1% 0.7% 2.4% , est devant dans 100.0% 71.9% 43.6% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 100.0% des cas
+134:   32-suited gagne 6.4%, partage 1.2%
+      - Hauteur : 54.0% 34.1% 20.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.8% 46.4% 41.2% , est devant dans 0.5% 0.0% 0.0% des cas
+      - DoublePaire : 3.4% 11.6% 22.7% , est devant dans 50.9% 19.3% 5.9% des cas
+      - Brelan : 1.3% 2.6% 4.6% , est devant dans 30.0% 22.0% 21.1% des cas
+      - Quinte : 0.5% 1.6% 3.3% , est devant dans 85.7% 52.0% 25.0% des cas
+      - Couleur : 1.0% 3.2% 5.8% , est devant dans 68.8% 74.0% 46.7% des cas
+      - Full : 0.1% 0.3% 1.4% , est devant dans 100.0% 40.0% 31.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+135:   Q3-offsuited gagne 6.4%, partage 1.7%
+      - Hauteur : 53.5% 35.5% 19.7% , est devant dans 0.1% 0.0% 0.0% des cas
+      - Paire : 40.6% 48.8% 47.1% , est devant dans 8.5% 3.1% 1.1% des cas
+      - DoublePaire : 4.0% 10.8% 22.4% , est devant dans 53.3% 27.2% 10.7% des cas
+      - Brelan : 1.8% 3.7% 4.8% , est devant dans 56.0% 46.4% 34.8% des cas
+      - Quinte : 0.0% 0.3% 1.6% , est devant dans 0% 23.1% 11.1% des cas
+      - Couleur : 0.0% 0.2% 1.7% , est devant dans 0% 27.3% 21.1% des cas
+      - Full : 0.0% 0.8% 2.6% , est devant dans 100.0% 65.7% 45.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 83.3% des cas
+136:   Q2-offsuited gagne 6.2%, partage 1.7%
+      - Hauteur : 54.3% 36.7% 21.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.9% 47.8% 46.3% , est devant dans 7.1% 2.6% 1.2% des cas
+      - DoublePaire : 4.0% 11.0% 22.3% , est devant dans 50.5% 24.9% 11.0% des cas
+      - Brelan : 1.7% 3.1% 4.4% , est devant dans 65.4% 50.0% 31.0% des cas
+      - Quinte : 0.0% 0.4% 1.6% , est devant dans 0% 10.0% 13.5% des cas
+      - Couleur : 0.0% 0.2% 1.7% , est devant dans 0% 10.0% 20.3% des cas
+      - Full : 0.1% 0.7% 2.4% , est devant dans 100.0% 63.6% 50.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 66.7% des cas
+137:   95-offsuited gagne 6.2%, partage 2.6%
+      - Hauteur : 53.2% 34.4% 19.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.1% 48.6% 43.9% , est devant dans 6.3% 1.8% 0.2% des cas
+      - DoublePaire : 4.2% 11.1% 23.6% , est devant dans 48.7% 21.0% 8.4% des cas
+      - Brelan : 1.8% 2.9% 4.4% , est devant dans 67.1% 44.7% 27.4% des cas
+      - Quinte : 0.6% 1.8% 4.5% , est devant dans 72.4% 50.6% 32.2% des cas
+      - Couleur : 0.0% 0.4% 1.9% , est devant dans 0% 10.5% 14.8% des cas
+      - Full : 0.1% 0.8% 2.4% , est devant dans 100.0% 72.2% 46.7% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 100.0% 100.0% 85.7% des cas
+138:   J5-offsuited gagne 6.2%, partage 2.2%
+      - Hauteur : 54.6% 35.9% 18.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.8% 48.3% 47.0% , est devant dans 10.3% 3.6% 0.8% des cas
+      - DoublePaire : 3.7% 10.9% 22.2% , est devant dans 55.0% 25.0% 10.6% des cas
+      - Brelan : 1.8% 3.0% 4.5% , est devant dans 67.9% 51.1% 31.7% des cas
+      - Quinte : 0.0% 0.7% 2.8% , est devant dans 0% 9.1% 8.5% des cas
+      - Couleur : 0.0% 0.5% 2.0% , est devant dans 0% 19.0% 22.8% des cas
+      - Full : 0.1% 0.7% 2.5% , est devant dans 60.0% 66.7% 50.9% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+139:   54-offsuited gagne 6.1%, partage 2.5%
+      - Hauteur : 53.7% 35.4% 19.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.7% 46.3% 42.9% , est devant dans 1.6% 0.3% 0.0% des cas
+      - DoublePaire : 4.1% 11.0% 21.7% , est devant dans 36.8% 18.3% 5.7% des cas
+      - Brelan : 1.4% 3.1% 4.6% , est devant dans 56.9% 35.3% 23.7% des cas
+      - Quinte : 0.9% 2.8% 6.8% , est devant dans 77.5% 63.8% 39.2% des cas
+      - Couleur : 0.0% 0.5% 2.3% , est devant dans 0% 0.0% 1.0% des cas
+      - Full : 0.1% 0.8% 2.3% , est devant dans 100.0% 64.7% 43.3% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 100.0% 100.0% 100.0% des cas
+140:   64-offsuited gagne 6.1%, partage 2.2%
+      - Hauteur : 53.1% 34.3% 18.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.5% 46.3% 43.6% , est devant dans 2.8% 0.3% 0.1% des cas
+      - DoublePaire : 4.5% 11.9% 22.6% , est devant dans 43.3% 14.9% 4.1% des cas
+      - Brelan : 1.5% 3.1% 4.6% , est devant dans 56.5% 40.6% 27.4% des cas
+      - Quinte : 1.2% 3.3% 6.7% , est devant dans 75.5% 68.9% 40.2% des cas
+      - Couleur : 0.0% 0.5% 1.7% , est devant dans 0% 4.8% 5.3% des cas
+      - Full : 0.2% 0.6% 2.5% , est devant dans 77.8% 53.6% 40.7% des cas
+      - Carré : 0.0% 0.1% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+141:   Q5-offsuited gagne 6.1%, partage 2.4%
+      - Hauteur : 53.8% 35.4% 20.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.6% 48.8% 46.2% , est devant dans 12.0% 4.1% 1.2% des cas
+      - DoublePaire : 3.7% 11.1% 22.5% , est devant dans 52.3% 24.0% 10.8% des cas
+      - Brelan : 1.7% 3.1% 4.7% , est devant dans 61.0% 52.9% 31.0% des cas
+      - Quinte : 0.0% 0.7% 2.3% , est devant dans 0% 15.6% 10.5% des cas
+      - Couleur : 0.0% 0.3% 2.0% , est devant dans 0% 18.8% 16.5% des cas
+      - Full : 0.2% 0.7% 2.2% , est devant dans 100.0% 53.3% 49.5% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 40.0% des cas
+142:   74-offsuited gagne 6.0%, partage 2.1%
+      - Hauteur : 52.2% 33.6% 18.5% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.9% 47.9% 44.4% , est devant dans 3.2% 0.7% 0.1% des cas
+      - DoublePaire : 4.5% 12.0% 22.8% , est devant dans 45.3% 19.4% 5.5% des cas
+      - Brelan : 1.6% 3.0% 4.5% , est devant dans 54.8% 42.9% 33.7% des cas
+      - Quinte : 0.6% 2.4% 5.1% , est devant dans 88.9% 61.0% 37.0% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 0.0% 5.1% des cas
+      - Full : 0.1% 0.6% 2.4% , est devant dans 100.0% 69.0% 47.6% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 75.0% des cas
+143:   96-offsuited gagne 5.9%, partage 2.4%
+      - Hauteur : 53.7% 35.1% 19.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.9% 47.0% 45.1% , est devant dans 7.0% 1.9% 0.2% des cas
+      - DoublePaire : 4.1% 11.7% 22.6% , est devant dans 44.3% 18.7% 7.3% des cas
+      - Brelan : 1.5% 2.7% 3.8% , est devant dans 60.3% 41.7% 25.6% des cas
+      - Quinte : 0.7% 2.7% 5.6% , est devant dans 83.9% 57.4% 36.2% des cas
+      - Couleur : 0.0% 0.3% 1.4% , est devant dans 0% 0.0% 7.7% des cas
+      - Full : 0.1% 0.6% 2.1% , est devant dans 100.0% 65.4% 45.2% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+144:   53-offsuited gagne 5.8%, partage 1.9%
+      - Hauteur : 54.0% 34.6% 19.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.2% 47.0% 44.1% , est devant dans 1.7% 0.1% 0.0% des cas
+      - DoublePaire : 4.0% 11.3% 22.8% , est devant dans 45.6% 19.2% 6.4% des cas
+      - Brelan : 1.9% 2.8% 4.1% , est devant dans 58.3% 37.8% 25.3% des cas
+      - Quinte : 0.8% 3.0% 5.3% , est devant dans 84.2% 66.9% 43.3% des cas
+      - Couleur : 0.0% 0.4% 2.0% , est devant dans 0% 10.0% 5.4% des cas
+      - Full : 0.1% 0.9% 2.2% , est devant dans 100.0% 59.0% 38.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 50.0% des cas
+145:   T5-offsuited gagne 5.8%, partage 2.4%
+      - Hauteur : 53.6% 35.8% 20.4% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.2% 46.6% 45.2% , est devant dans 8.7% 2.0% 0.2% des cas
+      - DoublePaire : 4.4% 12.2% 22.4% , est devant dans 53.0% 23.7% 11.1% des cas
+      - Brelan : 1.7% 3.5% 4.9% , est devant dans 70.9% 43.5% 25.9% des cas
+      - Quinte : 0.0% 0.9% 2.9% , est devant dans 0% 30.8% 14.3% des cas
+      - Couleur : 0.0% 0.3% 1.8% , est devant dans 0% 20.0% 15.0% des cas
+      - Full : 0.0% 0.6% 2.1% , est devant dans 100.0% 69.2% 47.4% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 100.0% 100.0% des cas
+146:   63-offsuited gagne 5.7%, partage 1.9%
+      - Hauteur : 52.6% 34.5% 18.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.1% 47.8% 46.2% , est devant dans 2.1% 0.4% 0.0% des cas
+      - DoublePaire : 4.5% 11.7% 21.6% , est devant dans 49.0% 18.6% 6.9% des cas
+      - Brelan : 1.3% 2.9% 4.0% , est devant dans 59.3% 41.9% 29.2% des cas
+      - Quinte : 0.4% 2.3% 5.1% , est devant dans 94.1% 61.4% 37.0% des cas
+      - Couleur : 0.0% 0.4% 2.1% , est devant dans 0% 6.3% 1.0% des cas
+      - Full : 0.1% 0.5% 2.1% , est devant dans 100.0% 68.2% 48.4% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 83.3% des cas
+147:   Q4-offsuited gagne 5.7%, partage 2.2%
+      - Hauteur : 55.0% 36.5% 20.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 38.9% 47.5% 46.2% , est devant dans 9.2% 4.0% 1.2% des cas
+      - DoublePaire : 4.4% 11.6% 22.9% , est devant dans 46.1% 23.8% 9.7% des cas
+      - Brelan : 1.6% 2.9% 4.3% , est devant dans 65.3% 43.7% 31.5% des cas
+      - Quinte : 0.0% 0.5% 1.8% , est devant dans 0% 14.3% 14.8% des cas
+      - Couleur : 0.0% 0.4% 1.8% , est devant dans 0% 33.3% 25.0% des cas
+      - Full : 0.0% 0.6% 2.1% , est devant dans 100.0% 59.3% 36.7% des cas
+      - Carré : 0.0% 0.0% 0.0% , est devant dans 0% 0% 100.0% des cas
+148:   85-offsuited gagne 5.7%, partage 1.9%
+      - Hauteur : 54.1% 35.8% 19.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.8% 47.2% 44.8% , est devant dans 4.9% 1.2% 0.1% des cas
+      - DoublePaire : 3.8% 11.1% 22.9% , est devant dans 48.0% 20.6% 7.6% des cas
+      - Brelan : 1.6% 3.1% 4.2% , est devant dans 54.1% 42.3% 29.6% des cas
+      - Quinte : 0.6% 2.0% 4.5% , est devant dans 92.3% 54.5% 35.6% des cas
+      - Couleur : 0.0% 0.3% 1.8% , est devant dans 0% 15.4% 2.5% des cas
+      - Full : 0.1% 0.6% 2.0% , est devant dans 100.0% 64.3% 44.6% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 83.3% des cas
+149:   T4-offsuited gagne 5.6%, partage 2.2%
+      - Hauteur : 52.9% 34.1% 18.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.7% 49.0% 47.3% , est devant dans 6.7% 1.4% 0.4% des cas
+      - DoublePaire : 3.8% 11.3% 21.7% , est devant dans 49.1% 22.8% 8.7% des cas
+      - Brelan : 1.5% 3.6% 5.0% , est devant dans 64.7% 42.0% 30.5% des cas
+      - Quinte : 0.0% 0.9% 2.7% , est devant dans 0% 25.6% 19.7% des cas
+      - Couleur : 0.0% 0.6% 1.9% , est devant dans 0% 20.0% 10.7% des cas
+      - Full : 0.1% 0.6% 2.4% , est devant dans 100.0% 64.0% 46.8% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 83.3% des cas
+150:   J4-offsuited gagne 5.6%, partage 2.4%
+      - Hauteur : 53.8% 35.3% 20.6% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.1% 48.7% 45.4% , est devant dans 8.2% 2.4% 0.7% des cas
+      - DoublePaire : 3.9% 11.2% 22.6% , est devant dans 52.5% 21.6% 7.4% des cas
+      - Brelan : 2.0% 3.1% 4.6% , est devant dans 69.7% 48.2% 30.9% des cas
+      - Quinte : 0.0% 0.4% 2.2% , est devant dans 0% 10.0% 15.8% des cas
+      - Couleur : 0.0% 0.5% 1.8% , est devant dans 0% 19.0% 14.8% des cas
+      - Full : 0.2% 0.8% 2.7% , est devant dans 100.0% 76.3% 53.3% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+151:   J6-offsuited gagne 5.6%, partage 2.3%
+      - Hauteur : 54.1% 36.5% 20.9% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.2% 47.0% 45.6% , est devant dans 9.2% 3.5% 0.9% des cas
+      - DoublePaire : 4.0% 11.5% 22.3% , est devant dans 49.7% 21.3% 8.7% des cas
+      - Brelan : 1.6% 3.1% 4.0% , est devant dans 73.2% 55.4% 32.8% des cas
+      - Quinte : 0.0% 0.9% 2.9% , est devant dans 0% 23.1% 12.1% des cas
+      - Couleur : 0.0% 0.4% 2.0% , est devant dans 0% 26.3% 19.6% des cas
+      - Full : 0.1% 0.6% 2.1% , est devant dans 100.0% 75.0% 48.5% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 0% 90.9% des cas
+152:   J3-offsuited gagne 5.5%, partage 1.9%
+      - Hauteur : 53.9% 36.0% 20.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.9% 48.9% 46.1% , est devant dans 6.3% 2.1% 0.4% des cas
+      - DoublePaire : 3.6% 10.6% 22.3% , est devant dans 51.6% 22.8% 10.4% des cas
+      - Brelan : 1.4% 3.0% 4.6% , est devant dans 59.4% 44.8% 31.6% des cas
+      - Quinte : 0.0% 0.6% 1.9% , est devant dans 0% 19.2% 9.5% des cas
+      - Couleur : 0.0% 0.3% 1.8% , est devant dans 0% 14.3% 18.8% des cas
+      - Full : 0.1% 0.6% 2.3% , est devant dans 100.0% 68.0% 41.7% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+153:   J2-offsuited gagne 5.3%, partage 1.7%
+      - Hauteur : 54.9% 37.0% 21.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 39.5% 47.5% 46.0% , est devant dans 5.8% 2.6% 0.5% des cas
+      - DoublePaire : 3.9% 10.8% 22.2% , est devant dans 51.1% 21.3% 9.5% des cas
+      - Brelan : 1.6% 3.0% 4.9% , est devant dans 66.2% 50.0% 30.3% des cas
+      - Quinte : 0.0% 0.6% 2.1% , est devant dans 0% 28.6% 16.5% des cas
+      - Couleur : 0.0% 0.4% 1.8% , est devant dans 0% 21.1% 18.3% des cas
+      - Full : 0.0% 0.7% 1.9% , est devant dans 100.0% 58.1% 38.6% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 25.0% des cas
+154:   43-offsuited gagne 5.3%, partage 1.6%
+      - Hauteur : 52.1% 33.9% 18.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.2% 47.9% 46.2% , est devant dans 0.7% 0.0% 0.0% des cas
+      - DoublePaire : 4.4% 11.9% 21.7% , est devant dans 42.4% 16.8% 6.4% des cas
+      - Brelan : 1.7% 3.4% 5.2% , est devant dans 56.6% 38.3% 24.9% des cas
+      - Quinte : 0.6% 2.0% 4.3% , est devant dans 76.9% 58.9% 37.1% des cas
+      - Couleur : 0.0% 0.2% 1.9% , est devant dans 0% 0.0% 2.4% des cas
+      - Full : 0.1% 0.7% 2.3% , est devant dans 100.0% 64.5% 39.0% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 83.3% des cas
+155:   T2-offsuited gagne 5.2%, partage 1.7%
+      - Hauteur : 53.5% 36.6% 20.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.1% 47.3% 47.0% , est devant dans 4.4% 1.1% 0.4% des cas
+      - DoublePaire : 3.8% 11.1% 21.9% , est devant dans 48.5% 20.8% 8.7% des cas
+      - Brelan : 1.6% 3.5% 4.6% , est devant dans 67.6% 48.1% 28.3% des cas
+      - Quinte : 0.0% 0.6% 2.0% , est devant dans 0% 25.0% 13.0% des cas
+      - Couleur : 0.0% 0.4% 2.0% , est devant dans 0% 0.0% 14.6% des cas
+      - Full : 0.0% 0.4% 2.3% , est devant dans 100.0% 55.0% 46.7% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 100.0% des cas
+156:   T3-offsuited gagne 5.2%, partage 1.4%
+      - Hauteur : 53.3% 35.3% 19.8% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.9% 47.7% 45.8% , est devant dans 4.2% 1.1% 0.5% des cas
+      - DoublePaire : 4.0% 11.5% 23.0% , est devant dans 50.5% 18.0% 7.2% des cas
+      - Brelan : 1.8% 3.6% 4.7% , est devant dans 65.1% 50.3% 38.0% des cas
+      - Quinte : 0.0% 0.8% 2.0% , est devant dans 0% 11.4% 11.8% des cas
+      - Couleur : 0.0% 0.4% 2.2% , est devant dans 0% 10.5% 7.0% des cas
+      - Full : 0.1% 0.7% 2.4% , est devant dans 33.3% 74.2% 40.7% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 100.0% 85.7% des cas
+157:   62-offsuited gagne 5.0%, partage 1.9%
+      - Hauteur : 54.3% 36.2% 19.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 38.9% 45.8% 45.1% , est devant dans 1.4% 0.1% 0.0% des cas
+      - DoublePaire : 4.5% 12.4% 23.2% , est devant dans 45.4% 16.8% 5.9% des cas
+      - Brelan : 1.9% 3.1% 4.0% , est devant dans 53.9% 42.0% 30.4% des cas
+      - Quinte : 0.3% 1.4% 3.9% , est devant dans 76.9% 63.5% 32.6% des cas
+      - Couleur : 0.0% 0.4% 1.9% , est devant dans 0% 5.0% 2.3% des cas
+      - Full : 0.1% 0.7% 2.5% , est devant dans 100.0% 53.1% 38.3% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+158:   73-offsuited gagne 4.8%, partage 1.6%
+      - Hauteur : 54.1% 35.4% 19.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.0% 48.7% 46.6% , est devant dans 2.4% 0.4% 0.3% des cas
+      - DoublePaire : 4.2% 10.7% 21.8% , est devant dans 45.9% 21.0% 6.3% des cas
+      - Brelan : 1.2% 2.6% 4.2% , est devant dans 61.8% 47.1% 28.5% des cas
+      - Quinte : 0.3% 1.5% 4.1% , est devant dans 93.3% 56.5% 31.2% des cas
+      - Couleur : 0.0% 0.5% 2.4% , est devant dans 0% 4.8% 2.8% des cas
+      - Full : 0.1% 0.6% 1.7% , est devant dans 100.0% 60.7% 44.3% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas
+159:   92-offsuited gagne 4.7%, partage 2.1%
+      - Hauteur : 52.3% 34.4% 18.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 42.1% 49.4% 47.2% , est devant dans 3.7% 0.8% 0.2% des cas
+      - DoublePaire : 3.8% 11.4% 23.0% , est devant dans 53.2% 25.8% 8.1% des cas
+      - Brelan : 1.7% 3.3% 4.9% , est devant dans 51.9% 36.0% 26.5% des cas
+      - Quinte : 0.0% 0.6% 2.3% , est devant dans 0% 14.8% 9.7% des cas
+      - Couleur : 0.0% 0.3% 1.9% , est devant dans 0% 0.0% 11.6% des cas
+      - Full : 0.1% 0.6% 2.0% , est devant dans 100.0% 74.1% 46.1% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+160:   32-offsuited gagne 4.6%, partage 1.5%
+      - Hauteur : 52.2% 35.2% 19.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.8% 47.5% 45.0% , est devant dans 0.4% 0.0% 0.0% des cas
+      - DoublePaire : 3.7% 11.2% 23.0% , est devant dans 39.4% 11.6% 4.4% des cas
+      - Brelan : 1.9% 3.5% 4.7% , est devant dans 57.6% 42.0% 33.3% des cas
+      - Quinte : 0.4% 1.1% 3.3% , est devant dans 62.5% 48.0% 29.7% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 0.0% 1.0% des cas
+      - Full : 0.1% 0.9% 2.4% , est devant dans 100.0% 61.5% 36.1% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 0% 100.0% 100.0% des cas
+161:   52-offsuited gagne 4.6%, partage 1.8%
+      - Hauteur : 53.2% 35.0% 19.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.9% 47.8% 45.2% , est devant dans 0.9% 0.0% 0.0% des cas
+      - DoublePaire : 4.0% 11.6% 23.3% , est devant dans 40.4% 17.9% 5.4% des cas
+      - Brelan : 1.6% 3.3% 4.7% , est devant dans 57.3% 42.3% 27.4% des cas
+      - Quinte : 0.2% 1.4% 3.8% , est devant dans 50.0% 46.9% 30.6% des cas
+      - Couleur : 0.0% 0.4% 1.8% , est devant dans 0% 5.0% 3.6% des cas
+      - Full : 0.0% 0.5% 1.9% , est devant dans 100.0% 52.4% 39.5% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 80.0% des cas
+162:   93-offsuited gagne 4.5%, partage 2.3%
+      - Hauteur : 52.5% 34.7% 19.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.9% 48.7% 45.2% , est devant dans 3.9% 0.8% 0.2% des cas
+      - DoublePaire : 3.8% 11.5% 23.9% , est devant dans 44.8% 17.6% 6.4% des cas
+      - Brelan : 1.7% 3.2% 4.5% , est devant dans 71.1% 45.9% 26.4% des cas
+      - Quinte : 0.0% 0.9% 3.0% , est devant dans 0% 22.0% 13.9% des cas
+      - Couleur : 0.0% 0.4% 1.9% , est devant dans 0% 15.0% 9.3% des cas
+      - Full : 0.1% 0.6% 2.1% , est devant dans 100.0% 73.1% 43.9% des cas
+      - Carré : 0.0% 0.1% 0.2% , est devant dans 100.0% 100.0% 75.0% des cas
+163:   84-offsuited gagne 4.5%, partage 1.7%
+      - Hauteur : 52.9% 34.6% 20.0% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 41.9% 49.3% 44.9% , est devant dans 3.4% 0.8% 0.0% des cas
+      - DoublePaire : 3.6% 11.2% 22.7% , est devant dans 48.8% 21.4% 7.2% des cas
+      - Brelan : 1.2% 2.4% 4.5% , est devant dans 61.8% 39.8% 23.2% des cas
+      - Quinte : 0.3% 1.4% 3.5% , est devant dans 100.0% 52.5% 20.3% des cas
+      - Couleur : 0.0% 0.5% 2.3% , est devant dans 0% 0.0% 5.9% des cas
+      - Full : 0.1% 0.6% 2.1% , est devant dans 100.0% 71.4% 42.4% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+164:   94-offsuited gagne 4.4%, partage 2.3%
+      - Hauteur : 53.5% 35.0% 20.2% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.5% 48.9% 45.6% , est devant dans 5.0% 1.3% 0.4% des cas
+      - DoublePaire : 4.4% 11.7% 23.2% , est devant dans 43.5% 19.5% 6.6% des cas
+      - Brelan : 1.5% 2.8% 4.3% , est devant dans 70.4% 53.8% 25.1% des cas
+      - Quinte : 0.0% 0.7% 2.8% , est devant dans 0% 18.2% 17.8% des cas
+      - Couleur : 0.0% 0.5% 2.0% , est devant dans 0% 8.3% 12.1% des cas
+      - Full : 0.0% 0.4% 1.8% , est devant dans 100.0% 68.4% 41.5% des cas
+      - Carré : 0.0% 0.0% 0.2% , est devant dans 0% 100.0% 85.7% des cas
+165:   82-offsuited gagne 4.2%, partage 1.8%
+      - Hauteur : 54.4% 35.5% 19.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.2% 48.9% 47.2% , est devant dans 2.7% 0.7% 0.0% des cas
+      - DoublePaire : 3.8% 10.5% 22.5% , est devant dans 45.3% 19.7% 7.2% des cas
+      - Brelan : 1.6% 3.3% 4.5% , est devant dans 49.3% 45.9% 30.2% des cas
+      - Quinte : 0.0% 0.6% 2.2% , est devant dans 0% 7.7% 9.2% des cas
+      - Couleur : 0.0% 0.5% 1.9% , est devant dans 0% 4.3% 4.7% des cas
+      - Full : 0.1% 0.6% 2.3% , est devant dans 100.0% 58.6% 33.3% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+166:   83-offsuited gagne 4.2%, partage 1.8%
+      - Hauteur : 53.6% 35.2% 19.7% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.9% 49.2% 47.3% , est devant dans 2.5% 0.4% 0.0% des cas
+      - DoublePaire : 4.0% 11.2% 21.5% , est devant dans 46.4% 20.2% 7.5% des cas
+      - Brelan : 1.5% 2.7% 4.7% , est devant dans 51.5% 39.2% 24.8% des cas
+      - Quinte : 0.0% 0.6% 2.7% , est devant dans 0% 10.3% 11.5% des cas
+      - Couleur : 0.0% 0.4% 2.0% , est devant dans 0% 5.3% 5.6% des cas
+      - Full : 0.1% 0.7% 2.0% , est devant dans 100.0% 60.0% 45.6% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 100.0% 100.0% des cas
+167:   42-offsuited gagne 4.1%, partage 1.3%
+      - Hauteur : 53.8% 36.6% 20.1% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.0% 46.8% 46.2% , est devant dans 0.6% 0.0% 0.0% des cas
+      - DoublePaire : 4.2% 11.3% 22.2% , est devant dans 45.5% 15.0% 5.2% des cas
+      - Brelan : 1.5% 2.9% 4.5% , est devant dans 46.4% 34.4% 22.4% des cas
+      - Quinte : 0.4% 1.2% 2.7% , est devant dans 68.4% 53.7% 36.4% des cas
+      - Couleur : 0.0% 0.5% 2.2% , est devant dans 0% 0.0% 2.0% des cas
+      - Full : 0.1% 0.7% 1.9% , est devant dans 100.0% 63.3% 46.5% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 0% 0% 33.3% des cas
+168:   72-offsuited gagne 3.9%, partage 1.8%
+      - Hauteur : 53.8% 36.0% 20.3% , est devant dans 0.0% 0.0% 0.0% des cas
+      - Paire : 40.7% 47.8% 46.4% , est devant dans 2.1% 0.4% 0.0% des cas
+      - DoublePaire : 4.1% 11.8% 22.8% , est devant dans 46.5% 18.9% 6.8% des cas
+      - Brelan : 1.3% 2.8% 4.3% , est devant dans 60.0% 40.8% 28.7% des cas
+      - Quinte : 0.0% 0.5% 2.2% , est devant dans 0% 16.7% 11.2% des cas
+      - Couleur : 0.0% 0.5% 1.8% , est devant dans 0% 9.5% 3.7% des cas
+      - Full : 0.0% 0.6% 2.0% , est devant dans 100.0% 51.9% 34.1% des cas
+      - Carré : 0.0% 0.0% 0.1% , est devant dans 100.0% 100.0% 100.0% des cas

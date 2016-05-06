@@ -1,0 +1,1123 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"value",
+				"value2"
+			],
+			[
+				"h",
+				"hand"
+			],
+			[
+				"to",
+				"to_hash"
+			],
+			[
+				"ea",
+				"ea	each { |e| .. }"
+			],
+			[
+				"listen",
+				"listeners"
+			],
+			[
+				"player",
+				"playerid"
+			],
+			[
+				"figure",
+				"figure_data"
+			],
+			[
+				"get",
+				"get_handtype_by_value"
+			],
+			[
+				"get_",
+				"get_type"
+			],
+			[
+				"Hand",
+				"HandTypeArray"
+			],
+			[
+				"list",
+				"liste"
+			],
+			[
+				"g",
+				"get_score_postriver"
+			],
+			[
+				"Tests",
+				"Tests"
+			],
+			[
+				"has",
+				"hasHauteur"
+			],
+			[
+				"sortedC",
+				"sortedCard2"
+			],
+			[
+				"rank",
+				"rank3"
+			],
+			[
+				"ran",
+				"rank2"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"handda",
+				"handdata"
+			],
+			[
+				"H",
+				"HandData"
+			],
+			[
+				"set",
+				"set_session_length"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "statdata/figuredata.rb",
+			"settings":
+			{
+				"buffer_size": 1667,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "statdata/gamedata.rb",
+			"settings":
+			{
+				"buffer_size": 11904,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "statdata/playerdata.rb",
+			"settings":
+			{
+				"buffer_size": 2159,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game/session.rb",
+			"settings":
+			{
+				"buffer_size": 1637,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/testsession.rb",
+			"settings":
+			{
+				"buffer_size": 1592,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pokertest.rb",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\"map\": function(doc) { \nif(doc.players['Player 9']['hand'][0]['value']>=doc.players['Player 9']['hand'][1]['value']){\n	if(doc.players['Player 9']['hand'][0]['color']==doc.players['Player 9']['hand'][1]['color']){\n		emit([doc.players['Player 9']['hand'][0]['value'],doc.players['Player 9']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 9'].winner))\n	}else{\n		emit([doc.players['Player 9']['hand'][0]['value'],doc.players['Player 9']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 9'].winner))\n	}\n}else{\n	if(doc.players['Player 9']['hand'][0]['color']==doc.players['Player 9']['hand'][1]['color']){\n		emit([doc.players['Player 9']['hand'][1]['value'],doc.players['Player 9']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 9'].winner))\n	}else{\n		emit([doc.players['Player 9']['hand'][1]['value'],doc.players['Player 9']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 9'].winner))\n	}\n}\nif(doc.players['Player 8']['hand'][0]['value']>=doc.players['Player 8']['hand'][1]['value']){\n	if(doc.players['Player 8']['hand'][0]['color']==doc.players['Player 8']['hand'][1]['color']){\n		emit([doc.players['Player 8']['hand'][0]['value'],doc.players['Player 8']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 8'].winner))\n	}else{\n		emit([doc.players['Player 8']['hand'][0]['value'],doc.players['Player 8']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 8'].winner))\n	}\n}else{\n	if(doc.players['Player 8']['hand'][0]['color']==doc.players['Player 8']['hand'][1]['color']){\n		emit([doc.players['Player 8']['hand'][1]['value'],doc.players['Player 8']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 8'].winner))\n	}else{\n		emit([doc.players['Player 8']['hand'][1]['value'],doc.players['Player 8']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 8'].winner))\n	}\n}\nif(doc.players['Player 7']['hand'][0]['value']>=doc.players['Player 7']['hand'][1]['value']){\n	if(doc.players['Player 7']['hand'][0]['color']==doc.players['Player 7']['hand'][1]['color']){\n		emit([doc.players['Player 7']['hand'][0]['value'],doc.players['Player 7']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 7'].winner))\n	}else{\n		emit([doc.players['Player 7']['hand'][0]['value'],doc.players['Player 7']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 7'].winner))\n	}\n}else{\n	if(doc.players['Player 7']['hand'][0]['color']==doc.players['Player 7']['hand'][1]['color']){\n		emit([doc.players['Player 7']['hand'][1]['value'],doc.players['Player 7']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 7'].winner))\n	}else{\n		emit([doc.players['Player 7']['hand'][1]['value'],doc.players['Player 7']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 7'].winner))\n	}\n}\nif(doc.players['Player 6']['hand'][0]['value']>=doc.players['Player 6']['hand'][1]['value']){\n	if(doc.players['Player 6']['hand'][0]['color']==doc.players['Player 6']['hand'][1]['color']){\n		emit([doc.players['Player 6']['hand'][0]['value'],doc.players['Player 6']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 6'].winner))\n	}else{\n		emit([doc.players['Player 6']['hand'][0]['value'],doc.players['Player 6']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 6'].winner))\n	}\n}else{\n	if(doc.players['Player 6']['hand'][0]['color']==doc.players['Player 6']['hand'][1]['color']){\n		emit([doc.players['Player 6']['hand'][1]['value'],doc.players['Player 6']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 6'].winner))\n	}else{\n		emit([doc.players['Player 6']['hand'][1]['value'],doc.players['Player 6']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 6'].winner))\n	}\n}\nif(doc.players['Player 5']['hand'][0]['value']>=doc.players['Player 5']['hand'][1]['value']){\n	if(doc.players['Player 5']['hand'][0]['color']==doc.players['Player 5']['hand'][1]['color']){\n		emit([doc.players['Player 5']['hand'][0]['value'],doc.players['Player 5']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 5'].winner))\n	}else{\n		emit([doc.players['Player 5']['hand'][0]['value'],doc.players['Player 5']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 5'].winner))\n	}\n}else{\n	if(doc.players['Player 5']['hand'][0]['color']==doc.players['Player 5']['hand'][1]['color']){\n		emit([doc.players['Player 5']['hand'][1]['value'],doc.players['Player 5']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 5'].winner))\n	}else{\n		emit([doc.players['Player 5']['hand'][1]['value'],doc.players['Player 5']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 5'].winner))\n	}\n}\nif(doc.players['Player 4']['hand'][0]['value']>=doc.players['Player 4']['hand'][1]['value']){\n	if(doc.players['Player 4']['hand'][0]['color']==doc.players['Player 4']['hand'][1]['color']){\n		emit([doc.players['Player 4']['hand'][0]['value'],doc.players['Player 4']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 4'].winner))\n	}else{\n		emit([doc.players['Player 4']['hand'][0]['value'],doc.players['Player 4']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 4'].winner))\n	}\n}else{\n	if(doc.players['Player 4']['hand'][0]['color']==doc.players['Player 4']['hand'][1]['color']){\n		emit([doc.players['Player 4']['hand'][1]['value'],doc.players['Player 4']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 4'].winner))\n	}else{\n		emit([doc.players['Player 4']['hand'][1]['value'],doc.players['Player 4']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 4'].winner))\n	}\n}\nif(doc.players['Player 3']['hand'][0]['value']>=doc.players['Player 3']['hand'][1]['value']){\n	if(doc.players['Player 3']['hand'][0]['color']==doc.players['Player 3']['hand'][1]['color']){\n		emit([doc.players['Player 3']['hand'][0]['value'],doc.players['Player 3']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 3'].winner))\n	}else{\n		emit([doc.players['Player 3']['hand'][0]['value'],doc.players['Player 3']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 3'].winner))\n	}\n}else{\n	if(doc.players['Player 3']['hand'][0]['color']==doc.players['Player 3']['hand'][1]['color']){\n		emit([doc.players['Player 3']['hand'][1]['value'],doc.players['Player 3']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 3'].winner))\n	}else{\n		emit([doc.players['Player 3']['hand'][1]['value'],doc.players['Player 3']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 3'].winner))\n	}\n}\nif(doc.players['Player 2']['hand'][0]['value']>=doc.players['Player 2']['hand'][1]['value']){\n	if(doc.players['Player 2']['hand'][0]['color']==doc.players['Player 2']['hand'][1]['color']){\n		emit([doc.players['Player 2']['hand'][0]['value'],doc.players['Player 2']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 2'].winner))\n	}else{\n		emit([doc.players['Player 2']['hand'][0]['value'],doc.players['Player 2']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 2'].winner))\n	}\n}else{\n	if(doc.players['Player 2']['hand'][0]['color']==doc.players['Player 2']['hand'][1]['color']){\n		emit([doc.players['Player 2']['hand'][1]['value'],doc.players['Player 2']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 2'].winner))\n	}else{\n		emit([doc.players['Player 2']['hand'][1]['value'],doc.players['Player 2']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 2'].winner))\n	}\n}\nif(doc.players['Player 1']['hand'][0]['value']>=doc.players['Player 1']['hand'][1]['value']){\n	if(doc.players['Player 1']['hand'][0]['color']==doc.players['Player 1']['hand'][1]['color']){\n		emit([doc.players['Player 1']['hand'][0]['value'],doc.players['Player 1']['hand'][1]['value'],\"suited\"], Number(doc.players['Player 1'].winner))\n	}else{\n		emit([doc.players['Player 1']['hand'][0]['value'],doc.players['Player 1']['hand'][1]['value'],\"offsuited\"], Number(doc.players['Player 1'].winner))\n	}\n}else{\n	if(doc.players['Player 1']['hand'][0]['color']==doc.players['Player 1']['hand'][1]['color']){\n		emit([doc.players['Player 1']['hand'][1]['value'],doc.players['Player 1']['hand'][0]['value'],\"suited\"], Number(doc.players['Player 1'].winner))\n	}else{\n		emit([doc.players['Player 1']['hand'][1]['value'],doc.players['Player 1']['hand'][0]['value'],\"offsuited\"], Number(doc.players['Player 1'].winner))\n	}\n}\n}",
+			"file": "views.js",
+			"file_size": 1534,
+			"file_write_time": 1392573186000000,
+			"settings":
+			{
+				"buffer_size": 8206,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/testdb",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/testdb.rb",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game/table.rb",
+			"settings":
+			{
+				"buffer_size": 4777,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "event/abstractevent.rb",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Windows",
+				"name": "class AbstractEvent"
+			}
+		},
+		{
+			"file": "event/abstractlistener.rb",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "class AbstractListener"
+			}
+		},
+		{
+			"file": "event/showdown.rb",
+			"settings":
+			{
+				"buffer_size": 101,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "logsession/dblogsession.rb",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Windows",
+				"name": "class DBlogDSession"
+			}
+		},
+		{
+			"file": "init.rb",
+			"settings":
+			{
+				"buffer_size": 1202,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game/board.rb",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game/player.rb",
+			"settings":
+			{
+				"buffer_size": 3754,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cards/cardlist.rb",
+			"settings":
+			{
+				"buffer_size": 3206,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "figures/figure.rb",
+			"settings":
+			{
+				"buffer_size": 7217,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "figures/full.rb",
+			"settings":
+			{
+				"buffer_size": 591,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "amelioration.rb",
+			"settings":
+			{
+				"buffer_size": 8127,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "configsession.rb",
+			"settings":
+			{
+				"buffer_size": 433,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 56.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ludovic.besset/Desktop/poker/cards/cards.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/poker.sublime-project",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/carre.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/full.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/couleur.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/quinte.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/pair.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/figure.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/brelan.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/doublepair.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/output/simpleliste.txt",
+		"/C/Users/ludovic.besset/Desktop/poker/handtypes/handtype.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/handtypes/handtypearray.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/statdata/figuredata",
+		"/C/Users/ludovic.besset/Desktop/poker/output/tableau.txt",
+		"/C/Users/ludovic.besset/Desktop/poker/output/figure.txt",
+		"/C/Users/ludovic.besset/Desktop/poker/data/handdata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/data/gamedata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/data/handtypearray.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/cards/cardlist.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/figure.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/data/playerdata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/output/testsession/20130625_151255_10_500000/figure.txt",
+		"/C/Users/ludovic.besset/Desktop/poker/init.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/configsession.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figures/hauteur.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/test/testtable.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/statdata/figuredata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/statdata/handdata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/test/testsession.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/pokertest.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/game/player.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/statdata/playerdata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/statdata/gamedata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/game/table.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/game/session.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/data/handtype.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/data/statdata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/data/carddata.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/cards/card.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/full.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/hauteur.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/pair.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/quinte.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/doublepair.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/couleur.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/carre.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure/brelan.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/game/board.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/game/hand.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/cards/cardcolor.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/amelioration.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/card_old.rb",
+		"/C/Users/ludovic.besset/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ludovic.besset/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/ludovic.besset/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ludovic.besset/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ludovic.besset/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Ruby200/lib/ruby/2.0.0/matrix.rb",
+		"/C/Ruby200/lib/ruby/2.0.0/matrix/eigenvalue_decomposition.rb",
+		"/C/Ruby200/lib/ruby/2.0.0/matrix/lup_decomposition.rb",
+		"/C/Users/ludovic.besset/Desktop/poker/figure.rb",
+		"/C/Old/Bureau 2/poker/card.rb",
+		"/C/Old/Bureau 2/poker/temp.rb",
+		"/C/Old/Bureau 2/poker/data.rb",
+		"/C/Old/Bureau 2/poker/figure.rb",
+		"/C/Old/Bureau 2/poker/pokertest.rb",
+		"/C/Old/Bureau 2/poker/amelioration.rb",
+		"/C/Ruby200/lib/ruby/2.0.0/rdoc/rdoc.rb",
+		"/C/Ruby200/lib/ruby/2.0.0/rdoc/parser/ruby.rb",
+		"/C/Ruby200/lib/ruby/2.0.0/rdoc/any_method.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Player 2",
+			"Player 3",
+			"Player 4",
+			"Player 5",
+			"Player 6",
+			"Player 7",
+			"Player 8",
+			"Player 9",
+			"player 9",
+			"set_flop_winner",
+			"FigureData",
+			"this",
+			"get_score_win",
+			"get_score(",
+			"@winner",
+			"@flop_winner",
+			"set_preflop_winner",
+			"tirage",
+			"tirag",
+			"tab[k]",
+			"carddata",
+			"CardDataList",
+			"CardData",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"ExceptionForMatrix",
+			"enumerable",
+			"carddat",
+			"game",
+			"PlayerData"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Player 1",
+			"Player 2",
+			"Player 3",
+			"Player 4",
+			"Player 5",
+			"Player 6",
+			"Player 7",
+			"Player 8",
+			"get_score_win(",
+			"step[k]",
+			"handtype",
+			"HandTypeArray",
+			"HandType",
+			"test"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "statdata/figuredata.rb",
+					"settings":
+					{
+						"buffer_size": 1667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1234,
+								1234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "statdata/gamedata.rb",
+					"settings":
+					{
+						"buffer_size": 11904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11862,
+								11862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "statdata/playerdata.rb",
+					"settings":
+					{
+						"buffer_size": 2159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "game/session.rb",
+					"settings":
+					{
+						"buffer_size": 1637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 401.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test/testsession.rb",
+					"settings":
+					{
+						"buffer_size": 1592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pokertest.rb",
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views.js",
+					"settings":
+					{
+						"buffer_size": 8206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "test/testdb",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "test/testdb.rb",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "game/table.rb",
+					"settings":
+					{
+						"buffer_size": 4777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2575.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "event/abstractevent.rb",
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class AbstractEvent",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "event/abstractlistener.rb",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class AbstractListener",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "event/showdown.rb",
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "logsession/dblogsession.rb",
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class DBlogDSession",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "init.rb",
+					"settings":
+					{
+						"buffer_size": 1202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "game/board.rb",
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "game/player.rb",
+					"settings":
+					{
+						"buffer_size": 3754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2714,
+								2714
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1149.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "cards/cardlist.rb",
+					"settings":
+					{
+						"buffer_size": 3206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3003,
+								3003
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2087.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "figures/figure.rb",
+					"settings":
+					{
+						"buffer_size": 7217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7196,
+								7196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4498.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "figures/full.rb",
+					"settings":
+					{
+						"buffer_size": 591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "amelioration.rb",
+					"settings":
+					{
+						"buffer_size": 8127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "configsession.rb",
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 62.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true
+}

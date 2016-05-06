@@ -1,0 +1,9 @@
+832852 : gagne 10.2 , partage 1.8
+998517 : gagne 10.0 , partage 2.1
+884763 : gagne 10.1 , partage 2.2
+884823 : gagne 9.0 , partage 2.0
+449919 : gagne 9.9 , partage 1.9
+928349 : gagne 12.2 , partage 2.2
+72295 : gagne 9.4 , partage 2.3
+796634 : gagne 10.8 , partage 3.4
+758303 : gagne 8.9 , partage 3.3

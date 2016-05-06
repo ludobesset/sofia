@@ -1,0 +1,8 @@
+Hauteur : 24939:50000% 16378:50000% 9074:50000% , est devant dans 9:24939% 0:16378% 0:9074% des cas, et partage dans 2:24939% 0:16378% 0:9074% des cas
+Paire : 21209:50000% 23898:50000% 22064:50000% , est devant dans 2736:21209% 1298:23898% 407:22064% des cas, et partage dans 174:21209% 94:23898% 85:22064% des cas
+DoublePaire : 2386:50000% 6192:50000% 11905:50000% , est devant dans 1014:2386% 1407:6192% 1205:11905% des cas, et partage dans 58:2386% 78:6192% 197:11905% des cas
+Brelan : 1104:50000% 1854:50000% 2404:50000% , est devant dans 792:1104% 979:1854% 891:2404% des cas, et partage dans 18:1104% 42:1854% 120:2404% des cas
+Quinte : 175:50000% 698:50000% 1637:50000% , est devant dans 149:175% 381:698% 561:1637% des cas, et partage dans 12:175% 80:698% 426:1637% des cas
+Couleur : 95:50000% 512:50000% 1515:50000% , est devant dans 85:95% 333:512% 699:1515% des cas, et partage dans 0:95% 0:512% 0:1515% des cas
+Full : 75:50000% 421:50000% 1320:50000% , est devant dans 66:75% 283:421% 713:1320% des cas, et partage dans 0:75% 20:421% 178:1320% des cas
+Carré : 17:50000% 47:50000% 81:50000% , est devant dans 17:17% 37:47% 61:81% des cas, et partage dans 0:17% 1:47% 4:81% des cas

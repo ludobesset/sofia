@@ -1,0 +1,8 @@
+Hauteur : NaN% NaN% 17.3% , est devant dans 0% 0% 16.3% des cas, et partage dans 0% 0% 1.7% des cas
+Paire : NaN% NaN% 44.6% , est devant dans 0% 0% 42.0% des cas, et partage dans 0% 0% 2.5% des cas
+DoublePaire : NaN% NaN% 24.2% , est devant dans 0% 0% 64.2% des cas, et partage dans 0% 0% 6.4% des cas
+Brelan : NaN% NaN% 5.2% , est devant dans 0% 0% 71.8% des cas, et partage dans 0% 0% 2.9% des cas
+Quinte : NaN% NaN% 3.0% , est devant dans 0% 0% 85.7% des cas, et partage dans 0% 0% 10.1% des cas
+Couleur : NaN% NaN% 2.8% , est devant dans 0% 0% 84.8% des cas, et partage dans 0% 0% 0.0% des cas
+Full : NaN% NaN% 2.9% , est devant dans 0% 0% 79.3% des cas, et partage dans 0% 0% 15.5% des cas
+Carré : NaN% NaN% 0.2% , est devant dans 0% 0% 66.7% des cas, et partage dans 0% 0% 33.3% des cas
